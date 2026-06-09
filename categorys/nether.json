@@ -1,0 +1,222 @@
+[
+{
+  "id": "GILDED_BLACKSTONE",
+  "buy_price": 525.00,
+  "sell_price": 300.00
+},
+{
+  "id": "WEEPING_VINES",
+  "buy_price": 20.00,
+  "sell_price": 5.00
+},
+{
+  "id": "TWISTING_VINES",
+  "buy_price": 25.00,
+  "sell_price": 5.00
+},
+{
+  "id": "WARPED_ROOTS",
+  "buy_price": 25.00,
+  "sell_price": 5.00
+},
+{
+  "id": "CRIMSON_ROOTS",
+  "buy_price": 25.00,
+  "sell_price": 5.00
+},
+{
+  "id": "NETHER_SPROUTS",
+  "buy_price": 25.00,
+  "sell_price": 5.00
+},
+{
+  "id": "NETHER_GOLD_ORE",
+  "buy_price": 90.00,
+  "sell_price": 50.00
+},
+{
+  "id": "NETHER_WART_BLOCK",
+  "buy_price": 25.00,
+  "sell_price": 20.31
+},
+{
+  "id": "CRIMSON_NYLIUM",
+  "buy_price": 31.25,
+  "sell_price": 28.13
+},
+{
+  "id": "WARPED_NYLIUM",
+  "buy_price": 31.25,
+  "sell_price": 28.13
+},
+{
+  "id": "WARPED_WART_BLOCK",
+  "buy_price": 25.00,
+  "sell_price": 20.31
+},
+{
+  "id": "SOUL_SAND",
+  "buy_price": 15.63,
+  "sell_price": 12.50
+},
+{
+  "id": "SOUL_SOIL",
+  "buy_price": 12.50,
+  "sell_price": 9.38
+},
+{
+  "id": "MAGMA_BLOCK",
+  "buy_price": 12.50,
+  "sell_price": 11.72
+},
+{
+  "id": "GLOWSTONE",
+  "buy_price": 150.00,
+  "sell_price": 110.00
+},
+{
+  "id": "GLOWSTONE_DUST",
+  "buy_price": 65.00,
+  "sell_price": 50.00
+},
+{
+  "id": "SHROOMLIGHT",
+  "buy_price": 195.00,
+  "sell_price": 125.00
+},
+{
+  "id": "OBSIDIAN",
+  "buy_price": 80.00,
+  "sell_price": 72.00
+},
+{
+  "id": "CRYING_OBSIDIAN",
+  "buy_price": 350.00,
+  "sell_price": 320.00
+},
+{
+  "id": "NETHERRACK",
+  "buy_price": 3.75,
+  "sell_price": 3.13
+},
+{
+  "id": "NETHER_QUARTZ_ORE",
+  "buy_price": 125.00,
+  "sell_price": 120.00
+},
+{
+  "id": "QUARTZ_BLOCK",
+  "buy_price": 156.25,
+  "sell_price": 132.81
+},
+{
+  "id": "QUARTZ_PILLAR",
+  "buy_price": 156.25,
+  "sell_price": 132.81
+},
+{
+  "id": "CHISELED_QUARTZ_BLOCK",
+  "buy_price": 156.25,
+  "sell_price": 132.81
+},
+{
+  "id": "QUARTZ_STAIRS",
+  "buy_price": 156.25,
+  "sell_price": 132.81
+},
+{
+  "id": "QUARTZ_SLAB",
+  "buy_price": 78.13,
+  "sell_price": 66.41
+},
+{
+  "id": "QUARTZ_BRICKS",
+  "buy_price": 156.25,
+  "sell_price": 132.81
+},
+{
+  "id": "SMOOTH_QUARTZ",
+  "buy_price": 164.06,
+  "sell_price": 140.63
+},
+{
+  "id": "SMOOTH_QUARTZ_STAIRS",
+  "buy_price": 164.06,
+  "sell_price": 140.63
+},
+{
+  "id": "SMOOTH_QUARTZ_SLAB",
+  "buy_price": 82.03,
+  "sell_price": 70.31
+},
+{
+  "id": "QUARTZ",
+  "buy_price": 45.00,
+  "sell_price": 40.00
+},
+{
+  "id": "NETHER_BRICKS",
+  "buy_price": 20.00,
+  "sell_price": 18.75
+},
+{
+  "id": "CRACKED_NETHER_BRICKS",
+  "buy_price": 25.00,
+  "sell_price": 23.75
+},
+{
+  "id": "NETHER_BRICK_STAIRS",
+  "buy_price": 20.00,
+  "sell_price": 18.75
+},
+{
+  "id": "NETHER_BRICK_SLAB",
+  "buy_price": 10.00,
+  "sell_price": 9.38
+},
+{
+  "id": "NETHER_BRICK_WALL",
+  "buy_price": 20.00,
+  "sell_price": 18.75
+},
+{
+  "id": "NETHER_BRICK_FENCE",
+  "buy_price": 20.00,
+  "sell_price": 18.75
+},
+{
+  "id": "CHISELED_NETHER_BRICKS",
+  "buy_price": 20.00,
+  "sell_price": 18.75
+},
+{
+  "id": "RED_NETHER_BRICKS",
+  "buy_price": 34.38,
+  "sell_price": 31.25
+},
+{
+  "id": "RED_NETHER_BRICK_STAIRS",
+  "buy_price": 34.38,
+  "sell_price": 31.25
+},
+{
+  "id": "RED_NETHER_BRICK_SLAB",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "RED_NETHER_BRICK_WALL",
+  "buy_price": 34.38,
+  "sell_price": 31.25
+},
+{
+  "id": "RESPAWN_ANCHOR",
+  "buy_price": 2600.00,
+  "sell_price": 1500.00
+},
+{
+  "id": "DRIED_GHAST",
+  "buy_price": 150.00,
+  "sell_price": 100.00
+}
+]

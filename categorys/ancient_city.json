@@ -1,0 +1,57 @@
+[
+{
+  "id": "SOUL_LANTERN",
+  "buy_price": 65.00,
+  "sell_price": 55.00
+},
+{
+  "id": "SOUL_TORCH",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "SOUL_CAMPFIRE",
+  "buy_price": 70.00,
+  "sell_price": 35.00
+},
+{
+  "id": "ECHO_SHARD",
+  "buy_price": 2500.00,
+  "sell_price": 1500.00
+},
+{
+  "id": "RECOVERY_COMPASS",
+  "buy_price": 9500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "SCULK_VEIN",
+  "buy_price": 31.25,
+  "sell_price": 6.25
+},
+{
+  "id": "CALIBRATED_SCULK_SENSOR",
+  "buy_price": 275.00,
+  "sell_price": 150.00
+},
+{
+  "id": "SCULK_SENSOR",
+  "buy_price": 250.00,
+  "sell_price": 160.00
+},
+{
+  "id": "SCULK_SHRIEKER",
+  "buy_price": 500.00,
+  "sell_price": 250.00
+},
+{
+  "id": "SCULK_CATALYST",
+  "buy_price": 350.00,
+  "sell_price": 150.00
+},
+{
+  "id": "SCULK",
+  "buy_price": 39.06,
+  "sell_price": 37.50
+}
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "minecraft:crafting_table",
+    "buy_price": 250.0,
+    "sell_price": 20.0 
+  },
+  {
+    "id": "minecraft:furnace",
+    "buy_price": 20.0,
+    "sell_price": 18.0
+  }
+]

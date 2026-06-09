@@ -1,0 +1,172 @@
+[
+{
+  "id": "DROPPER",
+  "buy_price": 60.00,
+  "sell_price": 55.00
+},
+{
+  "id": "DISPENSER",
+  "buy_price": 245.00,
+  "sell_price": 175.00
+},
+{
+  "id": "OBSERVER",
+  "buy_price": 150.00,
+  "sell_price": 140.00
+},
+{
+  "id": "REPEATER",
+  "buy_price": 150.00,
+  "sell_price": 120.00
+},
+{
+  "id": "COMPARATOR",
+  "buy_price": 175.00,
+  "sell_price": 135.00
+},
+{
+  "id": "REDSTONE_TORCH",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "PISTON",
+  "buy_price": 195.00,
+  "sell_price": 180.00
+},
+{
+  "id": "STICKY_PISTON",
+  "buy_price": 210.00,
+  "sell_price": 150.00
+},
+{
+  "id": "REDSTONE_LAMP",
+  "buy_price": 175.00,
+  "sell_price": 150.00
+},
+{
+  "id": "JUKEBOX",
+  "buy_price": 105.00,
+  "sell_price": 85.00
+},
+{
+  "id": "NOTE_BLOCK",
+  "buy_price": 65.00,
+  "sell_price": 45.00
+},
+{
+  "id": "HOPPER",
+  "buy_price": 275.00,
+  "sell_price": 250.00
+},
+{
+  "id": "TARGET",
+  "buy_price": 120.00,
+  "sell_price": 80.00
+},
+{
+  "id": "CRAFTER",
+  "buy_price": 400.00,
+  "sell_price": 300.00
+},
+{
+  "id": "STONE_BUTTON",
+  "buy_price": 5.00,
+  "sell_price": 4.00
+},
+{
+  "id": "LEVER",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "TRIPWIRE_HOOK",
+  "buy_price": 20.00,
+  "sell_price": 18.00
+},
+{
+  "id": "POLISHED_BLACKSTONE_BUTTON",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "LIGHTNING_ROD",
+  "buy_price": 40.00,
+  "sell_price": 15.00
+},
+{
+  "id": "TNT",
+  "buy_price": 95.00,
+  "sell_price": 90.00
+},
+{
+  "id": "RAIL",
+  "buy_price": 15.63,
+  "sell_price": 15.00
+},
+{
+  "id": "POWERED_RAIL",
+  "buy_price": 85.00,
+  "sell_price": 40.00
+},
+{
+  "id": "DETECTOR_RAIL",
+  "buy_price": 55.00,
+  "sell_price": 20.00
+},
+{
+  "id": "ACTIVATOR_RAIL",
+  "buy_price": 85.00,
+  "sell_price": 40.00
+},
+{
+  "id": "STONE_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "HEAVY_WEIGHTED_PRESSURE_PLATE",
+  "buy_price": 45.00,
+  "sell_price": 25.00
+},
+{
+  "id": "LIGHT_WEIGHTED_PRESSURE_PLATE",
+  "buy_price": 30.00,
+  "sell_price": 15.00
+},
+{
+  "id": "POLISHED_BLACKSTONE_PRESSURE_PLATE",
+  "buy_price": 20.00,
+  "sell_price": 15.00
+},
+{
+  "id": "DAYLIGHT_DETECTOR",
+  "buy_price": 275.00,
+  "sell_price": 250.00
+},
+{
+  "id": "MINECART",
+  "buy_price": 195.00,
+  "sell_price": 185.00
+},
+{
+  "id": "CHEST_MINECART",
+  "buy_price": 245.00,
+  "sell_price": 235.00
+},
+{
+  "id": "HOPPER_MINECART",
+  "buy_price": 440.00,
+  "sell_price": 430.00
+},
+{
+  "id": "FURNACE_MINECART",
+  "buy_price": 140.00,
+  "sell_price": 130.00
+},
+{
+  "id": "TNT_MINECART",
+  "buy_price": 205.00,
+  "sell_price": 195.00
+}
+]

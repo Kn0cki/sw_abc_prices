@@ -1,0 +1,1021 @@
+[
+{
+  "id": "OAK_LOG",
+  "buy_price": 18.75,
+  "sell_price": 15.63
+},
+{
+  "id": "BIRCH_LOG",
+  "buy_price": 14.06,
+  "sell_price": 10.94
+},
+{
+  "id": "JUNGLE_LOG",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "ACACIA_LOG",
+  "buy_price": 14.06,
+  "sell_price": 10.94
+},
+{
+  "id": "SPRUCE_LOG",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "DARK_OAK_LOG",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "MANGROVE_LOG",
+  "buy_price": 46.88,
+  "sell_price": 43.75
+},
+{
+  "id": "WARPED_STEM",
+  "buy_price": 23.44,
+  "sell_price": 15.63
+},
+{
+  "id": "CRIMSON_STEM",
+  "buy_price": 23.44,
+  "sell_price": 22.50
+},
+{
+  "id": "CHERRY_LOG",
+  "buy_price": 15.63,
+  "sell_price": 14.06
+},
+{
+  "id": "BAMBOO_BLOCK",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "PALE_OAK_LOG",
+  "buy_price": 18.75,
+  "sell_price": 17.19
+},
+{
+  "id": "OAK_WOOD",
+  "buy_price": 28.13,
+  "sell_price": 26.56
+},
+{
+  "id": "BIRCH_WOOD",
+  "buy_price": 20.31,
+  "sell_price": 18.75
+},
+{
+  "id": "JUNGLE_WOOD",
+  "buy_price": 20.31,
+  "sell_price": 18.75
+},
+{
+  "id": "ACACIA_WOOD",
+  "buy_price": 20.31,
+  "sell_price": 18.75
+},
+{
+  "id": "SPRUCE_WOOD",
+  "buy_price": 20.31,
+  "sell_price": 18.75
+},
+{
+  "id": "DARK_OAK_WOOD",
+  "buy_price": 20.31,
+  "sell_price": 18.75
+},
+{
+  "id": "MANGROVE_WOOD",
+  "buy_price": 65.63,
+  "sell_price": 62.50
+},
+{
+  "id": "WARPED_HYPHAE",
+  "buy_price": 32.81,
+  "sell_price": 31.25
+},
+{
+  "id": "CRIMSON_HYPHAE",
+  "buy_price": 32.81,
+  "sell_price": 31.25
+},
+{
+  "id": "CHERRY_WOOD",
+  "buy_price": 30.63,
+  "sell_price": 28.13
+},
+{
+  "id": "PALE_OAK_WOOD",
+  "buy_price": 28.13,
+  "sell_price": 25.00
+},
+{
+  "id": "STRIPPED_OAK_LOG",
+  "buy_price": 37.50,
+  "sell_price": 34.38
+},
+{
+  "id": "STRIPPED_BIRCH_LOG",
+  "buy_price": 28.13,
+  "sell_price": 26.56
+},
+{
+  "id": "STRIPPED_JUNGLE_LOG",
+  "buy_price": 28.13,
+  "sell_price": 26.56
+},
+{
+  "id": "STRIPPED_ACACIA_LOG",
+  "buy_price": 28.13,
+  "sell_price": 26.56
+},
+{
+  "id": "STRIPPED_SPRUCE_LOG",
+  "buy_price": 37.50,
+  "sell_price": 34.38
+},
+{
+  "id": "STRIPPED_DARK_OAK_LOG",
+  "buy_price": 37.50,
+  "sell_price": 34.38
+},
+{
+  "id": "STRIPPED_MANGROVE_LOG",
+  "buy_price": 56.25,
+  "sell_price": 53.13
+},
+{
+  "id": "STRIPPED_WARPED_STEM",
+  "buy_price": 46.88,
+  "sell_price": 43.75
+},
+{
+  "id": "STRIPPED_CRIMSON_STEM",
+  "buy_price": 46.88,
+  "sell_price": 43.75
+},
+{
+  "id": "STRIPPED_CHERRY_LOG",
+  "buy_price": 31.25,
+  "sell_price": 28.13
+},
+{
+  "id": "STRIPPED_BAMBOO_BLOCK",
+  "buy_price": 31.25,
+  "sell_price": 28.13
+},
+{
+  "id": "STRIPPED_PALE_OAK_LOG",
+  "buy_price": 37.50,
+  "sell_price": 34.38
+},
+{
+  "id": "STRIPPED_OAK_WOOD",
+  "buy_price": 56.25,
+  "sell_price": 53.13
+},
+{
+  "id": "STRIPPED_BIRCH_WOOD",
+  "buy_price": 40.63,
+  "sell_price": 37.50
+},
+{
+  "id": "STRIPPED_JUNGLE_WOOD",
+  "buy_price": 40.63,
+  "sell_price": 37.50
+},
+{
+  "id": "STRIPPED_ACACIA_WOOD",
+  "buy_price": 40.63,
+  "sell_price": 37.50
+},
+{
+  "id": "STRIPPED_SPRUCE_WOOD",
+  "buy_price": 40.63,
+  "sell_price": 37.50
+},
+{
+  "id": "STRIPPED_DARK_OAK_WOOD",
+  "buy_price": 40.63,
+  "sell_price": 37.50
+},
+{
+  "id": "STRIPPED_MANGROVE_WOOD",
+  "buy_price": 131.25,
+  "sell_price": 109.38
+},
+{
+  "id": "STRIPPED_WARPED_HYPHAE",
+  "buy_price": 65.63,
+  "sell_price": 62.50
+},
+{
+  "id": "STRIPPED_CRIMSON_HYPHAE",
+  "buy_price": 65.63,
+  "sell_price": 62.50
+},
+{
+  "id": "STRIPPED_CHERRY_WOOD",
+  "buy_price": 62.50,
+  "sell_price": 59.38
+},
+{
+  "id": "STRIPPED_PALE_OAK_WOOD",
+  "buy_price": 56.25,
+  "sell_price": 53.13
+},
+{
+  "id": "OAK_PLANKS",
+  "buy_price": 5.63,
+  "sell_price": 5.31
+},
+{
+  "id": "BIRCH_PLANKS",
+  "buy_price": 4.69,
+  "sell_price": 4.38
+},
+{
+  "id": "JUNGLE_PLANKS",
+  "buy_price": 4.69,
+  "sell_price": 4.38
+},
+{
+  "id": "ACACIA_PLANKS",
+  "buy_price": 5.63,
+  "sell_price": 5.31
+},
+{
+  "id": "SPRUCE_PLANKS",
+  "buy_price": 4.69,
+  "sell_price": 4.38
+},
+{
+  "id": "DARK_OAK_PLANKS",
+  "buy_price": 4.69,
+  "sell_price": 4.38
+},
+{
+  "id": "MANGROVE_PLANKS",
+  "buy_price": 7.03,
+  "sell_price": 6.25
+},
+{
+  "id": "WARPED_PLANKS",
+  "buy_price": 5.63,
+  "sell_price": 5.31
+},
+{
+  "id": "CRIMSON_PLANKS",
+  "buy_price": 5.63,
+  "sell_price": 5.31
+},
+{
+  "id": "CHERRY_PLANKS",
+  "buy_price": 5.88,
+  "sell_price": 5.63
+},
+{
+  "id": "BAMBOO_PLANKS",
+  "buy_price": 4.69,
+  "sell_price": 2.81
+},
+{
+  "id": "BAMBOO_MOSAIC",
+  "buy_price": 15.63,
+  "sell_price": 15.00
+},
+{
+  "id": "PALE_OAK_PLANKS",
+  "buy_price": 6.25,
+  "sell_price": 5.94
+},
+{
+  "id": "OAK_STAIRS",
+  "buy_price": 6.72,
+  "sell_price": 6.25
+},
+{
+  "id": "BIRCH_STAIRS",
+  "buy_price": 5.16,
+  "sell_price": 4.69
+},
+{
+  "id": "JUNGLE_STAIRS",
+  "buy_price": 5.16,
+  "sell_price": 4.69
+},
+{
+  "id": "ACACIA_STAIRS",
+  "buy_price": 5.16,
+  "sell_price": 4.69
+},
+{
+  "id": "SPRUCE_STAIRS",
+  "buy_price": 5.16,
+  "sell_price": 4.69
+},
+{
+  "id": "DARK_OAK_STAIRS",
+  "buy_price": 5.16,
+  "sell_price": 4.69
+},
+{
+  "id": "MANGROVE_STAIRS",
+  "buy_price": 7.03,
+  "sell_price": 6.25
+},
+{
+  "id": "WARPED_STAIRS",
+  "buy_price": 8.28,
+  "sell_price": 7.81
+},
+{
+  "id": "CRIMSON_STAIRS",
+  "buy_price": 8.28,
+  "sell_price": 7.81
+},
+{
+  "id": "CHERRY_STAIRS",
+  "buy_price": 7.50,
+  "sell_price": 6.88
+},
+{
+  "id": "BAMBOO_STAIRS",
+  "buy_price": 7.81,
+  "sell_price": 4.69
+},
+{
+  "id": "BAMBOO_MOSAIC_STAIRS",
+  "buy_price": 19.38,
+  "sell_price": 18.75
+},
+{
+  "id": "PALE_OAK_STAIRS",
+  "buy_price": 7.50,
+  "sell_price": 7.19
+},
+{
+  "id": "OAK_SLAB",
+  "buy_price": 4.69,
+  "sell_price": 3.75
+},
+{
+  "id": "BIRCH_SLAB",
+  "buy_price": 3.75,
+  "sell_price": 2.81
+},
+{
+  "id": "JUNGLE_SLAB",
+  "buy_price": 3.75,
+  "sell_price": 2.81
+},
+{
+  "id": "ACACIA_SLAB",
+  "buy_price": 4.69,
+  "sell_price": 3.75
+},
+{
+  "id": "SPRUCE_SLAB",
+  "buy_price": 3.75,
+  "sell_price": 2.81
+},
+{
+  "id": "DARK_OAK_SLAB",
+  "buy_price": 3.75,
+  "sell_price": 2.81
+},
+{
+  "id": "MANGROVE_SLAB",
+  "buy_price": 5.31,
+  "sell_price": 4.38
+},
+{
+  "id": "WARPED_SLAB",
+  "buy_price": 5.00,
+  "sell_price": 4.38
+},
+{
+  "id": "CRIMSON_SLAB",
+  "buy_price": 5.00,
+  "sell_price": 4.38
+},
+{
+  "id": "CHERRY_SLAB",
+  "buy_price": 2.94,
+  "sell_price": 2.81
+},
+{
+  "id": "BAMBOO_SLAB",
+  "buy_price": 5.94,
+  "sell_price": 5.00
+},
+{
+  "id": "BAMBOO_MOSAIC_SLAB",
+  "buy_price": 7.81,
+  "sell_price": 6.88
+},
+{
+  "id": "PALE_OAK_SLAB",
+  "buy_price": 3.75,
+  "sell_price": 2.81
+},
+{
+  "id": "OAK_FENCE",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "BIRCH_FENCE",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "JUNGLE_FENCE",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "ACACIA_FENCE",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "SPRUCE_FENCE",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "DARK_OAK_FENCE",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "MANGROVE_FENCE",
+  "buy_price": 35.00,
+  "sell_price": 25.00
+},
+{
+  "id": "WARPED_FENCE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "CRIMSON_FENCE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "CHERRY_FENCE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "BAMBOO_FENCE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "PALE_OAK_FENCE",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "OAK_FENCE_GATE",
+  "buy_price": 55.00,
+  "sell_price": 45.00
+},
+{
+  "id": "BIRCH_FENCE_GATE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "JUNGLE_FENCE_GATE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "ACACIA_FENCE_GATE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "SPRUCE_FENCE_GATE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "DARK_OAK_FENCE_GATE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "MANGROVE_FENCE_GATE",
+  "buy_price": 75.00,
+  "sell_price": 60.00
+},
+{
+  "id": "WARPED_FENCE_GATE",
+  "buy_price": 75.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CRIMSON_FENCE_GATE",
+  "buy_price": 75.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CHERRY_FENCE_GATE",
+  "buy_price": 60.00,
+  "sell_price": 50.00
+},
+{
+  "id": "BAMBOO_FENCE_GATE",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "PALE_OAK_FENCE_GATE",
+  "buy_price": 50.00,
+  "sell_price": 40.00
+},
+{
+  "id": "OAK_TRAPDOOR",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "BIRCH_TRAPDOOR",
+  "buy_price": 25.00,
+  "sell_price": 15.00
+},
+{
+  "id": "JUNGLE_TRAPDOOR",
+  "buy_price": 25.00,
+  "sell_price": 15.00
+},
+{
+  "id": "ACACIA_TRAPDOOR",
+  "buy_price": 25.00,
+  "sell_price": 15.00
+},
+{
+  "id": "SPRUCE_TRAPDOOR",
+  "buy_price": 25.00,
+  "sell_price": 15.00
+},
+{
+  "id": "DARK_OAK_TRAPDOOR",
+  "buy_price": 25.00,
+  "sell_price": 15.00
+},
+{
+  "id": "MANGROVE_TRAPDOOR",
+  "buy_price": 65.00,
+  "sell_price": 55.00
+},
+{
+  "id": "WARPED_TRAPDOOR",
+  "buy_price": 75.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CRIMSON_TRAPDOOR",
+  "buy_price": 75.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CHERRY_TRAPDOOR",
+  "buy_price": 40.00,
+  "sell_price": 20.00
+},
+{
+  "id": "BAMBOO_TRAPDOOR",
+  "buy_price": 40.00,
+  "sell_price": 20.00
+},
+{
+  "id": "PALE_OAK_TRAPDOOR",
+  "buy_price": 40.00,
+  "sell_price": 20.00
+},
+{
+  "id": "OAK_DOOR",
+  "buy_price": 25.00,
+  "sell_price": 10.00
+},
+{
+  "id": "BIRCH_DOOR",
+  "buy_price": 25.00,
+  "sell_price": 10.00
+},
+{
+  "id": "JUNGLE_DOOR",
+  "buy_price": 25.00,
+  "sell_price": 10.00
+},
+{
+  "id": "ACACIA_DOOR",
+  "buy_price": 25.00,
+  "sell_price": 10.00
+},
+{
+  "id": "SPRUCE_DOOR",
+  "buy_price": 25.00,
+  "sell_price": 10.00
+},
+{
+  "id": "DARK_OAK_DOOR",
+  "buy_price": 25.00,
+  "sell_price": 5.00
+},
+{
+  "id": "MANGROVE_DOOR",
+  "buy_price": 25.00,
+  "sell_price": 5.00
+},
+{
+  "id": "WARPED_DOOR",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CRIMSON_DOOR",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CHERRY_DOOR",
+  "buy_price": 20.00,
+  "sell_price": 15.00
+},
+{
+  "id": "BAMBOO_DOOR",
+  "buy_price": 20.00,
+  "sell_price": 15.00
+},
+{
+  "id": "PALE_OAK_DOOR",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "OAK_BUTTON",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "BIRCH_BUTTON",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "JUNGLE_BUTTON",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "ACACIA_BUTTON",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "SPRUCE_BUTTON",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "DARK_OAK_BUTTON",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "MANGROVE_BUTTON",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "WARPED_BUTTON",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "CRIMSON_BUTTON",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "CHERRY_BUTTON",
+  "buy_price": 6.00,
+  "sell_price": 5.00
+},
+{
+  "id": "BAMBOO_BUTTON",
+  "buy_price": 6.00,
+  "sell_price": 5.00
+},
+{
+  "id": "PALE_OAK_BUTTON",
+  "buy_price": 6.00,
+  "sell_price": 5.00
+},
+{
+  "id": "OAK_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "BIRCH_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "JUNGLE_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "ACACIA_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "SPRUCE_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "DARK_OAK_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "MANGROVE_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "WARPED_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "CRIMSON_PRESSURE_PLATE",
+  "buy_price": 10.00,
+  "sell_price": 8.00
+},
+{
+  "id": "CHERRY_PRESSURE_PLATE",
+  "buy_price": 15.00,
+  "sell_price": 10.00
+},
+{
+  "id": "PALE_OAK_PRESSURE_PLATE",
+  "buy_price": 15.00,
+  "sell_price": 10.00
+},
+{
+  "id": "BAMBOO_PRESSURE_PLATE",
+  "buy_price": 15.00,
+  "sell_price": 10.00
+},
+{
+  "id": "OAK_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "BIRCH_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "JUNGLE_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "ACACIA_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "SPRUCE_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "DARK_OAK_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "MANGROVE_SIGN",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "WARPED_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "CRIMSON_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "CHERRY_SIGN",
+  "buy_price": 32.00,
+  "sell_price": 30.00
+},
+{
+  "id": "PALE_OAK_SIGN",
+  "buy_price": 40.00,
+  "sell_price": 35.00
+},
+{
+  "id": "OAK_SHELF",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "BIRCH_SHELF",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "JUNGLE_SHELF",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "ACACIA_SHELF",
+  "buy_price": 40.00,
+  "sell_price": 35.00
+},
+{
+  "id": "SPRUCE_SHELF",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "DARK_OAK_SHELF",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "MANGROVE_SHELF",
+  "buy_price": 85.00,
+  "sell_price": 75.00
+},
+{
+  "id": "WARPED_SHELF",
+  "buy_price": 45.00,
+  "sell_price": 40.00
+},
+{
+  "id": "CRIMSON_SHELF",
+  "buy_price": 45.00,
+  "sell_price": 40.00
+},
+{
+  "id": "CHERRY_SHELF",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "BAMBOO_SHELF",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "PALE_OAK_SHELF",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "OAK_LEAVES",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "BIRCH_LEAVES",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "JUNGLE_LEAVES",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "ACACIA_LEAVES",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "SPRUCE_LEAVES",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "DARK_OAK_LEAVES",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "MANGROVE_LEAVES",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},{
+  "id": "MANGROVE_LEAVES",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "FLOWERING_AZALEA_LEAVES",
+  "buy_price": 120.00,
+  "sell_price": 115.00
+},
+{
+  "id": "AZALEA_LEAVES",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "CHERRY_LEAVES",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "PALE_OAK_LEAVES",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "OAK_SAPLING",
+  "buy_price": 40.00,
+  "sell_price": 35.00
+},
+{
+  "id": "BIRCH_SAPLING",
+  "buy_price": 40.00,
+  "sell_price": 35.00
+},
+{
+  "id": "JUNGLE_SAPLING",
+  "buy_price": 120.00,
+  "sell_price": 110.00
+},
+{
+  "id": "ACACIA_SAPLING",
+  "buy_price": 120.00,
+  "sell_price": 110.00
+},
+{
+  "id": "SPRUCE_SAPLING",
+  "buy_price": 100.00,
+  "sell_price": 65.00
+},
+{
+  "id": "SPRUCE_SAPLING",
+  "buy_price": 100.00,
+  "sell_price": 65.00
+},
+{
+  "id": "DARK_OAK_SAPLING",
+  "buy_price": 40.00,
+  "sell_price": 35.00
+},
+{
+  "id": "MANGROVE_PROPAGULE",
+  "buy_price": 45.00,
+  "sell_price": 40.00
+},
+{
+  "id": "WARPED_FUNGUS",
+  "buy_price": 50.00,
+  "sell_price": 25.00
+},
+{
+  "id": "CRIMSON_FUNGUS",
+  "buy_price": 50.00,
+  "sell_price": 25.00
+},
+{
+  "id": "CHERRY_SAPLING",
+  "buy_price": 55.00,
+  "sell_price": 35.00
+},
+{
+  "id": "PALE_OAK_SAPLING",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+}
+]

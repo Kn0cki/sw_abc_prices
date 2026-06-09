@@ -173,5 +173,10 @@
   "id": "IRON_CHAIN",
   "buy_price": 60.00,
   "sell_price": 55.00
+},
+{
+  "id": "ENDER_CHEST",
+  "buy_price": 700.00,
+  "sell_price": 650.00
 }
 ]

@@ -1,0 +1,512 @@
+[
+{
+  "id": "STONE",
+  "buy_price": 2.97,
+  "sell_price": 1.88
+},
+{
+  "id": "STONE_STAIRS",
+  "buy_price": 3.75,
+  "sell_price": 3.13
+},
+{
+  "id": "STONE_SLAB",
+  "buy_price": 3.13,
+  "sell_price": 2.50
+},
+{
+  "id": "CRACKED_STONE_BRICKS",
+  "buy_price": 6.25,
+  "sell_price": 5.47
+},
+{
+  "id": "SMOOTH_STONE",
+  "buy_price": 8.59,
+  "sell_price": 6.25
+},
+{
+  "id": "SMOOTH_STONE_SLAB",
+  "buy_price": 4.38,
+  "sell_price": 3.75
+},
+{
+  "id": "STONE_BRICKS",
+  "buy_price": 4.69,
+  "sell_price": 3.91
+},
+{
+  "id": "STONE_BRICK_STAIRS",
+  "buy_price": 3.75,
+  "sell_price": 3.13
+},
+{
+  "id": "STONE_BRICK_SLAB",
+  "buy_price": 3.13,
+  "sell_price": 2.50
+},
+{
+  "id": "STONE_BRICK_WALL",
+  "buy_price": 4.69,
+  "sell_price": 3.88
+},
+{
+  "id": "CHISELED_STONE_BRICKS",
+  "buy_price": 7.03,
+  "sell_price": 6.25
+},
+{
+  "id": "COBBLESTONE",
+  "buy_price": 1.95,
+  "sell_price": 1.48
+},
+{
+  "id": "COBBLESTONE_STAIRS",
+  "buy_price": 3.75,
+  "sell_price": 3.13
+},
+{
+  "id": "COBBLESTONE_SLAB",
+  "buy_price": 3.13,
+  "sell_price": 2.50
+},
+{
+  "id": "COBBLESTONE_WALL",
+  "buy_price": 2.50,
+  "sell_price": 1.88
+},
+{
+  "id": "MOSSY_COBBLESTONE",
+  "buy_price": 23.44,
+  "sell_price": 18.75
+},
+{
+  "id": "MOSSY_COBBLESTONE_STAIRS",
+  "buy_price": 12.50,
+  "sell_price": 10.94
+},
+{
+  "id": "MOSSY_COBBLESTONE_SLAB",
+  "buy_price": 7.81,
+  "sell_price": 7.50
+},
+{
+  "id": "MOSSY_COBBLESTONE_WALL",
+  "buy_price": 11.72,
+  "sell_price": 9.38
+},
+{
+  "id": "MOSSY_STONE_BRICKS",
+  "buy_price": 20.31,
+  "sell_price": 15.63
+},
+{
+  "id": "MOSSY_STONE_BRICK_STAIRS",
+  "buy_price": 14.06,
+  "sell_price": 12.50
+},
+{
+  "id": "MOSSY_STONE_BRICK_SLAB",
+  "buy_price": 6.25,
+  "sell_price": 5.94
+},
+{
+  "id": "MOSSY_STONE_BRICK_WALL",
+  "buy_price": 10.16,
+  "sell_price": 7.81
+},
+{
+  "id": "ANDESITE",
+  "buy_price": 18.75,
+  "sell_price": 17.19
+},
+{
+  "id": "ANDESITE_STAIRS",
+  "buy_price": 21.88,
+  "sell_price": 20.31
+},
+{
+  "id": "ANDESITE_SLAB",
+  "buy_price": 9.38,
+  "sell_price": 8.59
+},
+{
+  "id": "ANDESITE_WALL",
+  "buy_price": 18.75,
+  "sell_price": 17.19
+},
+{
+  "id": "POLISHED_ANDESITE",
+  "buy_price": 20.31,
+  "sell_price": 18.75
+},
+{
+  "id": "POLISHED_ANDESITE_STAIRS",
+  "buy_price": 23.44,
+  "sell_price": 21.88
+},
+{
+  "id": "POLISHED_ANDESITE_SLAB",
+  "buy_price": 10.16,
+  "sell_price": 9.38
+},
+{
+  "id": "DIORITE",
+  "buy_price": 14.06,
+  "sell_price": 12.50
+},
+{
+  "id": "DIORITE_STAIRS",
+  "buy_price": 15.63,
+  "sell_price": 14.06
+},
+{
+  "id": "DIORITE_SLAB",
+  "buy_price": 8.59,
+  "sell_price": 7.50
+},
+{
+  "id": "DIORITE_WALL",
+  "buy_price": 15.63,
+  "sell_price": 14.06
+},
+{
+  "id": "POLISHED_DIORITE",
+  "buy_price": 15.63,
+  "sell_price": 14.06
+},
+{
+  "id": "POLISHED_DIORITE_STAIRS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "POLISHED_DIORITE_SLAB",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "GRANITE",
+  "buy_price": 5.47,
+  "sell_price": 4.69
+},
+{
+  "id": "GRANITE_STAIRS",
+  "buy_price": 6.25,
+  "sell_price": 5.31
+},
+{
+  "id": "GRANITE_SLAB",
+  "buy_price": 3.13,
+  "sell_price": 2.50
+},
+{
+  "id": "GRANITE_WALL",
+  "buy_price": 10.00,
+  "sell_price": 4.00
+},
+{
+  "id": "POLISHED_GRANITE",
+  "buy_price": 5.47,
+  "sell_price": 4.69
+},
+{
+  "id": "POLISHED_GRANITE_STAIRS",
+  "buy_price": 6.25,
+  "sell_price": 5.31
+},
+{
+  "id": "POLISHED_GRANITE_SLAB",
+  "buy_price": 3.13,
+  "sell_price": 2.50
+},
+{
+  "id": "CALCITE",
+  "buy_price": 26.56,
+  "sell_price": 21.88
+},
+{
+  "id": "DRIPSTONE_BLOCK",
+  "buy_price": 14.84,
+  "sell_price": 14.06
+},
+{
+  "id": "BRICKS",
+  "buy_price": 62.50,
+  "sell_price": 59.38
+},
+{
+  "id": "BRICK_STAIRS",
+  "buy_price": 62.50,
+  "sell_price": 59.38
+},
+{
+  "id": "BRICK_SLAB",
+  "buy_price": 31.25,
+  "sell_price": 29.69
+},
+{
+  "id": "BRICK_WALL",
+  "buy_price": 62.50,
+  "sell_price": 59.38
+},
+{
+  "id": "COBBLED_DEEPSLATE",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "COBBLED_DEEPSLATE_STAIRS",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "COBBLED_DEEPSLATE_SLAB",
+  "buy_price": 15.63,
+  "sell_price": 12.50
+},
+{
+  "id": "COBBLED_DEEPSLATE_WALL",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "TUFF_BRICKS",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "TUFF_BRICK_STAIRS",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "TUFF_BRICK_SLAB",
+  "buy_price": 6.25,
+  "sell_price": 4.69
+},
+{
+  "id": "TUFF_BRICK_WALL",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "POLISHED_TUFF",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "POLISHED_TUFF_STAIRS",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "POLISHED_TUFF_SLAB",
+  "buy_price": 6.25,
+  "sell_price": 4.69
+},
+{
+  "id": "POLISHED_TUFF_WALL",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "CHISELED_TUFF",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "CHISELED_TUFF_BRICKS",
+  "buy_price": 9.38,
+  "sell_price": 7.81
+},
+{
+  "id": "TUFF",
+  "buy_price": 6.25,
+  "sell_price": 4.69
+},
+{
+  "id": "TUFF_STAIRS",
+  "buy_price": 6.25,
+  "sell_price": 4.69
+},
+{
+  "id": "TUFF_SLAB",
+  "buy_price": 3.13,
+  "sell_price": 2.34
+},
+{
+  "id": "TUFF_WALL",
+  "buy_price": 6.25,
+  "sell_price": 4.69
+},
+{
+  "id": "POLISHED_BASALT",
+  "buy_price": 3.91,
+  "sell_price": 2.81
+},
+{
+  "id": "SMOOTH_BASALT",
+  "buy_price": 7.81,
+  "sell_price": 6.25
+},
+{
+  "id": "BASALT",
+  "buy_price": 3.75,
+  "sell_price": 2.81
+},
+{
+  "id": "PACKED_MUD",
+  "buy_price": 28.13,
+  "sell_price": 25.00
+},
+{
+  "id": "MUD_BRICKS",
+  "buy_price": 28.13,
+  "sell_price": 25.00
+},
+{
+  "id": "MUD_BRICK_WALL",
+  "buy_price": 28.13,
+  "sell_price": 25.00
+},
+{
+  "id": "MUD_BRICK_STAIRS",
+  "buy_price": 42.19,
+  "sell_price": 37.50
+},
+{
+  "id": "MUD_BRICK_SLAB",
+  "buy_price": 13.75,
+  "sell_price": 12.50
+},
+{
+  "id": "MUD",
+  "buy_price": 18.75,
+  "sell_price": 15.63
+},
+{
+  "id": "MUDDY_MANGROVE_ROOTS",
+  "buy_price": 37.50,
+  "sell_price": 25.00
+},
+{
+  "id": "CLAY",
+  "buy_price": 31.25,
+  "sell_price": 25.00
+},
+{
+  "id": "BLACKSTONE",
+  "buy_price": 17.19,
+  "sell_price": 14.06
+},
+{
+  "id": "BLACKSTONE_STAIRS",
+  "buy_price": 17.19,
+  "sell_price": 14.06
+},
+{
+  "id": "BLACKSTONE_SLAB",
+  "buy_price": 15.63,
+  "sell_price": 12.50
+},
+{
+  "id": "BLACKSTONE_WALL",
+  "buy_price": 17.19,
+  "sell_price": 14.06
+},
+{
+  "id": "POLISHED_BLACKSTONE",
+  "buy_price": 20.31,
+  "sell_price": 17.19
+},
+{
+  "id": "POLISHED_BLACKSTONE_STAIRS",
+  "buy_price": 20.31,
+  "sell_price": 17.19
+},
+{
+  "id": "POLISHED_BLACKSTONE_SLAB",
+  "buy_price": 18.75,
+  "sell_price": 15.63
+},
+{
+  "id": "POLISHED_BLACKSTONE_WALL",
+  "buy_price": 20.31,
+  "sell_price": 17.19
+},
+{
+  "id": "POLISHED_BLACKSTONE_BRICKS",
+  "buy_price": 23.44,
+  "sell_price": 20.31
+},
+{
+  "id": "POLISHED_BLACKSTONE_BRICK_STAIRS",
+  "buy_price": 23.44,
+  "sell_price": 20.31
+},
+{
+  "id": "POLISHED_BLACKSTONE_BRICK_SLAB",
+  "buy_price": 25.00,
+  "sell_price": 21.88
+},
+{
+  "id": "POLISHED_BLACKSTONE_BRICK_WALL",
+  "buy_price": 23.44,
+  "sell_price": 20.31
+},
+{
+  "id": "CHISELED_POLISHED_BLACKSTONE",
+  "buy_price": 25.00,
+  "sell_price": 21.88
+},
+{
+  "id": "CRACKED_POLISHED_BLACKSTONE_BRICKS",
+  "buy_price": 25.00,
+  "sell_price": 21.88
+},
+{
+  "id": "RESIN_BLOCK",
+  "buy_price": 312.50,
+  "sell_price": 281.25
+},
+{
+  "id": "RESIN_BRICKS",
+  "buy_price": 390.63,
+  "sell_price": 343.75
+},
+{
+  "id": "RESIN_BRICK_STAIRS",
+  "buy_price": 390.63,
+  "sell_price": 343.75
+},
+{
+  "id": "RESIN_BRICK_SLAB",
+  "buy_price": 195.31,
+  "sell_price": 171.88
+},
+{
+  "id": "RESIN_BRICK_WALL",
+  "buy_price": 390.63,
+  "sell_price": 343.75
+},
+{
+  "id": "CHISELED_RESIN_BRICKS",
+  "buy_price": 390.63,
+  "sell_price": 343.75
+},
+{
+  "id": "CREAKING_HEART",
+  "buy_price": 600.00,
+  "sell_price": 250.00
+},
+{
+  "id": "RESIN_CLUMP",
+  "buy_price": 93.75,
+  "sell_price": 90.63
+},
+{
+  "id": "RESIN_BRICK",
+  "buy_price": 103.13,
+  "sell_price": 93.75
+}
+]

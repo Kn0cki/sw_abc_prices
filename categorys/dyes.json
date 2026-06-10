@@ -1,0 +1,82 @@
+[
+{
+  "id": "PURPLE_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "PINK_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "LIGHT_BLUE_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "CYAN_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "ORANGE_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "RED_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "BLACK_DYE",
+  "buy_price": 60.00,
+  "sell_price": 49.00
+},
+{
+  "id": "GRAY_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "LIGHT_GRAY_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "BROWN_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "GREEN_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "LIME_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "WHITE_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "BLUE_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "YELLOW_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "MAGENTA_DYE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+}
+]

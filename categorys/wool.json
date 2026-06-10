@@ -1,0 +1,162 @@
+[
+{
+  "id": "WHITE_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "WHITE_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "BLACK_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "BLACK_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "GRAY_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "GRAY_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "LIGHT_GRAY_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "LIGHT_GRAY_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "BROWN_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "BROWN_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "BLUE_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "BLUE_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "CYAN_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "CYAN_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "LIGHT_BLUE_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "LIGHT_BLUE_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "GREEN_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "GREEN_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "LIME_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "LIME_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "PURPLE_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "PURPLE_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "MAGENTA_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "MAGENTA_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "PINK_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "PINK_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "RED_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "RED_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "ORANGE_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "ORANGE_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+},
+{
+  "id": "YELLOW_WOOL",
+  "buy_price": 13.28,
+  "sell_price": 9.38
+},
+{
+  "id": "YELLOW_CARPET",
+  "buy_price": 10.94,
+  "sell_price": 7.81
+}
+]

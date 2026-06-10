@@ -1,0 +1,97 @@
+[
+{
+  "id": "NETHERITE_UPGRADE_SMITHING_TEMPLATE",
+  "buy_price": 1250.00,
+  "sell_price": 1200.00
+},
+{
+  "id": "COAST_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 6500.00,
+  "sell_price": 3500.00
+},
+{
+  "id": "TIDE_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 2500.00,
+  "sell_price": 1000.00
+},
+{
+  "id": "HOST_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 20000.00,
+  "sell_price": 10000.00
+},
+{
+  "id": "SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 20000.00,
+  "sell_price": 10000.00
+},
+{
+  "id": "RAISER_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 20000.00,
+  "sell_price": 10000.00
+},
+{
+  "id": "WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 9500.00,
+  "sell_price": 8000.00
+},
+{
+  "id": "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 125000.00,
+  "sell_price": 75000.00
+},
+{
+  "id": "WARD_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 9500.00,
+  "sell_price": 3000.00
+},
+{
+  "id": "RIB_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 50000.00,
+  "sell_price": 30000.00
+},
+{
+  "id": "SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 10000.00,
+  "sell_price": 7500.00
+},
+{
+  "id": "DUNE_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 16000.00,
+  "sell_price": 8000.00
+},
+{
+  "id": "EYE_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 30000.00,
+  "sell_price": 20000.00
+},
+{
+  "id": "SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 25000.00,
+  "sell_price": 10000.00
+},
+{
+  "id": "SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 9500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "VEX_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 25000.00,
+  "sell_price": 10000.00
+},
+{
+  "id": "WILD_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 9500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "BOLT_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 35000.00,
+  "sell_price": 20000.00
+},
+{
+  "id": "FLOW_ARMOR_TRIM_SMITHING_TEMPLATE",
+  "buy_price": 15000.00,
+  "sell_price": 7500.00
+}
+]

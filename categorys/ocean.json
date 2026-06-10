@@ -1,0 +1,262 @@
+[
+{
+  "id": "PRISMARINE_BRICKS",
+  "buy_price": 23.44,
+  "sell_price": 18.75
+},
+{
+  "id": "PRISMARINE_BRICK_SLAB",
+  "buy_price": 11.72,
+  "sell_price": 9.38
+},
+{
+  "id": "PRISMARINE_BRICK_STAIRS",
+  "buy_price": 23.44,
+  "sell_price": 18.75
+},
+{
+  "id": "DARK_PRISMARINE",
+  "buy_price": 328.13,
+  "sell_price": 281.25
+},
+{
+  "id": "DARK_PRISMARINE_SLAB",
+  "buy_price": 171.88,
+  "sell_price": 156.25
+},
+{
+  "id": "DARK_PRISMARINE_STAIRS",
+  "buy_price": 359.38,
+  "sell_price": 312.50
+},
+{
+  "id": "PRISMARINE",
+  "buy_price": 23.44,
+  "sell_price": 18.75
+},
+{
+  "id": "PRISMARINE_SLAB",
+  "buy_price": 11.72,
+  "sell_price": 9.38
+},
+{
+  "id": "PRISMARINE_STAIRS",
+  "buy_price": 23.44,
+  "sell_price": 18.75
+},
+{
+  "id": "PRISMARINE_WALL",
+  "buy_price": 23.44,
+  "sell_price": 18.75
+},
+{
+  "id": "SPONGE",
+  "buy_price": 65.00,
+  "sell_price": 50.00
+},
+{
+  "id": "WET_SPONGE",
+  "buy_price": 45.00,
+  "sell_price": 35.00
+},
+{
+  "id": "FIRE_CORAL_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 40.00
+},
+{
+  "id": "DEAD_FIRE_CORAL_BLOCK",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "HORN_CORAL_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 40.00
+},
+{
+  "id": "DEAD_HORN_CORAL_BLOCK",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "BRAIN_CORAL_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 40.00
+},
+{
+  "id": "DEAD_BRAIN_CORAL_BLOCK",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "BUBBLE_CORAL_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 40.00
+},
+{
+  "id": "DEAD_BUBBLE_CORAL_BLOCK",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "TUBE_CORAL_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 40.00
+},
+{
+  "id": "DEAD_TUBE_CORAL_BLOCK",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "DEAD_FIRE_CORAL_FAN",
+  "buy_price": 185.00,
+  "sell_price": 90.00
+},
+{
+  "id": "FIRE_CORAL_FAN",
+  "buy_price": 135.00,
+  "sell_price": 50.00
+},
+{
+  "id": "DEAD_HORN_CORAL_FAN",
+  "buy_price": 185.00,
+  "sell_price": 90.00
+},
+{
+  "id": "HORN_CORAL_FAN",
+  "buy_price": 135.00,
+  "sell_price": 50.00
+},
+{
+  "id": "DEAD_BRAIN_CORAL_FAN",
+  "buy_price": 185.00,
+  "sell_price": 90.00
+},
+{
+  "id": "BRAIN_CORAL_FAN",
+  "buy_price": 135.00,
+  "sell_price": 50.00
+},
+{
+  "id": "DEAD_BUBBLE_CORAL_FAN",
+  "buy_price": 185.00,
+  "sell_price": 90.00
+},
+{
+  "id": "BUBBLE_CORAL_FAN",
+  "buy_price": 135.00,
+  "sell_price": 50.00
+},
+{
+  "id": "DEAD_TUBE_CORAL_FAN",
+  "buy_price": 185.00,
+  "sell_price": 90.00
+},
+{
+  "id": "TUBE_CORAL_FAN",
+  "buy_price": 135.00,
+  "sell_price": 50.00
+},
+{
+  "id": "DEAD_FIRE_CORAL",
+  "buy_price": 200.00,
+  "sell_price": 190.00
+},
+{
+  "id": "FIRE_CORAL",
+  "buy_price": 185.00,
+  "sell_price": 180.00
+},
+{
+  "id": "DEAD_HORN_CORAL",
+  "buy_price": 200.00,
+  "sell_price": 190.00
+},
+{
+  "id": "HORN_CORAL",
+  "buy_price": 185.00,
+  "sell_price": 180.00
+},
+{
+  "id": "DEAD_BRAIN_CORAL",
+  "buy_price": 200.00,
+  "sell_price": 190.00
+},
+{
+  "id": "BRAIN_CORAL",
+  "buy_price": 185.00,
+  "sell_price": 180.00
+},
+{
+  "id": "DEAD_BUBBLE_CORAL",
+  "buy_price": 200.00,
+  "sell_price": 190.00
+},
+{
+  "id": "BUBBLE_CORAL",
+  "buy_price": 185.00,
+  "sell_price": 180.00
+},
+{
+  "id": "DEAD_TUBE_CORAL",
+  "buy_price": 200.00,
+  "sell_price": 190.00
+},
+{
+  "id": "TUBE_CORAL",
+  "buy_price": 185.00,
+  "sell_price": 180.00
+},
+{
+  "id": "TURTLE_EGG",
+  "buy_price": 900.00,
+  "sell_price": 750.00
+},
+{
+  "id": "KELP",
+  "buy_price": 7.81,
+  "sell_price": 7.50
+},
+{
+  "id": "SEAGRASS",
+  "buy_price": 6.25,
+  "sell_price": 5.94
+},
+{
+  "id": "SEA_PICKLE",
+  "buy_price": 6.25,
+  "sell_price": 5.94
+},
+{
+  "id": "SEA_LANTERN",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "CONDUIT",
+  "buy_price": 7500.00,
+  "sell_price": 4500.00
+},
+{
+  "id": "DRIED_KELP_BLOCK",
+  "buy_price": 75.00,
+  "sell_price": 60.00
+},
+{
+  "id": "DRIED_KELP",
+  "buy_price": 4.38,
+  "sell_price": 3.75
+},
+{
+  "id": "TURTLE_SCUTE",
+  "buy_price": 1500.00,
+  "sell_price": 750.00
+},
+{
+  "id": "HEART_OF_THE_SEA",
+  "buy_price": 6500.00,
+  "sell_price": 5000.00
+}
+]

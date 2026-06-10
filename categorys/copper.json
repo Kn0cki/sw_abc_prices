@@ -1,0 +1,357 @@
+[
+{
+  "id": "CUT_COPPER",
+  "buy_price": 8.75,
+  "sell_price": 3.75
+},
+{
+  "id": "CUT_COPPER_STAIRS",
+  "buy_price": 8.75,
+  "sell_price": 3.75
+},
+{
+  "id": "CUT_COPPER_SLAB",
+  "buy_price": 4.38,
+  "sell_price": 1.88
+},
+{
+  "id": "WAXED_COPPER_BLOCK",
+  "buy_price": 95.00,
+  "sell_price": 30.00
+},
+{
+  "id": "WAXED_CUT_COPPER",
+  "buy_price": 23.75,
+  "sell_price": 7.50
+},
+{
+  "id": "WAXED_CUT_COPPER_STAIRS",
+  "buy_price": 23.75,
+  "sell_price": 7.50
+},
+{
+  "id": "WAXED_CUT_COPPER_SLAB",
+  "buy_price": 11.88,
+  "sell_price": 3.75
+},
+{
+  "id": "EXPOSED_COPPER",
+  "buy_price": 50.00,
+  "sell_price": 20.00
+},
+{
+  "id": "EXPOSED_CUT_COPPER",
+  "buy_price": 12.50,
+  "sell_price": 5.00
+},
+{
+  "id": "EXPOSED_CUT_COPPER_STAIRS",
+  "buy_price": 12.50,
+  "sell_price": 5.00
+},
+{
+  "id": "EXPOSED_CUT_COPPER_SLAB",
+  "buy_price": 6.25,
+  "sell_price": 2.50
+},
+{
+  "id": "WAXED_EXPOSED_COPPER",
+  "buy_price": 110.00,
+  "sell_price": 40.00
+},
+{
+  "id": "WAXED_EXPOSED_CUT_COPPER",
+  "buy_price": 27.50,
+  "sell_price": 10.00
+},
+{
+  "id": "WAXED_EXPOSED_CUT_COPPER_STAIRS",
+  "buy_price": 27.50,
+  "sell_price": 10.00
+},
+{
+  "id": "WAXED_EXPOSED_CUT_COPPER_SLAB",
+  "buy_price": 13.75,
+  "sell_price": 5.00
+},
+{
+  "id": "WEATHERED_COPPER",
+  "buy_price": 65.00,
+  "sell_price": 25.00
+},
+{
+  "id": "WEATHERED_CUT_COPPER",
+  "buy_price": 16.25,
+  "sell_price": 6.25
+},
+{
+  "id": "WEATHERED_CUT_COPPER_STAIRS",
+  "buy_price": 16.25,
+  "sell_price": 6.25
+},
+{
+  "id": "WEATHERED_CUT_COPPER_SLAB",
+  "buy_price": 8.13,
+  "sell_price": 3.13
+},
+{
+  "id": "WAXED_WEATHERED_COPPER",
+  "buy_price": 125.00,
+  "sell_price": 50.00
+},
+{
+  "id": "WAXED_WEATHERED_CUT_COPPER",
+  "buy_price": 31.25,
+  "sell_price": 12.50
+},
+{
+  "id": "WAXED_WEATHERED_CUT_COPPER_STAIRS",
+  "buy_price": 31.25,
+  "sell_price": 12.50
+},
+{
+  "id": "WAXED_WEATHERED_CUT_COPPER_SLAB",
+  "buy_price": 15.63,
+  "sell_price": 6.25
+},
+{
+  "id": "OXIDIZED_COPPER",
+  "buy_price": 80.00,
+  "sell_price": 30.00
+},
+{
+  "id": "OXIDIZED_CUT_COPPER",
+  "buy_price": 20.00,
+  "sell_price": 7.50
+},
+{
+  "id": "OXIDIZED_CUT_COPPER_STAIRS",
+  "buy_price": 20.00,
+  "sell_price": 7.50
+},
+{
+  "id": "OXIDIZED_CUT_COPPER_SLAB",
+  "buy_price": 10.00,
+  "sell_price": 3.75
+},
+{
+  "id": "WAXED_OXIDIZED_COPPER",
+  "buy_price": 140.00,
+  "sell_price": 60.00
+},
+{
+  "id": "WAXED_OXIDIZED_CUT_COPPER",
+  "buy_price": 35.00,
+  "sell_price": 15.00
+},
+{
+  "id": "WAXED_OXIDIZED_CUT_COPPER_STAIRS",
+  "buy_price": 35.00,
+  "sell_price": 15.00
+},
+{
+  "id": "WAXED_OXIDIZED_CUT_COPPER_SLAB",
+  "buy_price": 17.50,
+  "sell_price": 7.50
+},
+{
+  "id": "CHISELED_COPPER",
+  "buy_price": 35.00,
+  "sell_price": 10.00
+},
+{
+  "id": "WAXED_CHISELED_COPPER",
+  "buy_price": 45.00,
+  "sell_price": 15.00
+},
+{
+  "id": "COPPER_BULB",
+  "buy_price": 60.00,
+  "sell_price": 35.00
+},
+{
+  "id": "WAXED_COPPER_BULB",
+  "buy_price": 75.00,
+  "sell_price": 40.00
+},
+{
+  "id": "COPPER_GRATE",
+  "buy_price": 35.00,
+  "sell_price": 10.00
+},
+{
+  "id": "WAXED_COPPER_GRATE",
+  "buy_price": 45.00,
+  "sell_price": 15.00
+},
+{
+  "id": "COPPER_DOOR",
+  "buy_price": 40.00,
+  "sell_price": 20.00
+},
+{
+  "id": "WAXED_COPPER_DOOR",
+  "buy_price": 50.00,
+  "sell_price": 25.00
+},
+{
+  "id": "COPPER_TRAPDOOR",
+  "buy_price": 25.00,
+  "sell_price": 15.00
+},
+{
+  "id": "WAXED_COPPER_TRAPDOOR",
+  "buy_price": 30.00,
+  "sell_price": 20.00
+},
+{
+  "id": "EXPOSED_CHISELED_COPPER",
+  "buy_price": 40.00,
+  "sell_price": 15.00
+},
+{
+  "id": "WAXED_EXPOSED_CHISELED_COPPER",
+  "buy_price": 50.00,
+  "sell_price": 20.00
+},
+{
+  "id": "EXPOSED_COPPER_BULB",
+  "buy_price": 70.00,
+  "sell_price": 40.00
+},
+{
+  "id": "WAXED_EXPOSED_COPPER_BULB",
+  "buy_price": 80.00,
+  "sell_price": 45.00
+},
+{
+  "id": "EXPOSED_COPPER_GRATE",
+  "buy_price": 40.00,
+  "sell_price": 15.00
+},
+{
+  "id": "WAXED_EXPOSED_COPPER_GRATE",
+  "buy_price": 50.00,
+  "sell_price": 20.00
+},
+{
+  "id": "EXPOSED_COPPER_DOOR",
+  "buy_price": 750.00,
+  "sell_price": 700.00
+},
+{
+  "id": "WAXED_EXPOSED_COPPER_DOOR",
+  "buy_price": 850.00,
+  "sell_price": 800.00
+},
+{
+  "id": "EXPOSED_COPPER_TRAPDOOR",
+  "buy_price": 250.00,
+  "sell_price": 170.00
+},
+{
+  "id": "WAXED_EXPOSED_COPPER_TRAPDOOR",
+  "buy_price": 260.00,
+  "sell_price": 180.00
+},
+{
+  "id": "WEATHERED_CHISELED_COPPER",
+  "buy_price": 50.00,
+  "sell_price": 20.00
+},
+{
+  "id": "WAXED_WEATHERED_CHISELED_COPPER",
+  "buy_price": 55.00,
+  "sell_price": 30.00
+},
+{
+  "id": "WEATHERED_COPPER_BULB",
+  "buy_price": 80.00,
+  "sell_price": 50.00
+},
+{
+  "id": "WAXED_WEATHERED_COPPER_BULB",
+  "buy_price": 90.00,
+  "sell_price": 60.00
+},
+{
+  "id": "WEATHERED_COPPER_GRATE",
+  "buy_price": 45.00,
+  "sell_price": 20.00
+},
+{
+  "id": "WAXED_WEATHERED_COPPER_GRATE",
+  "buy_price": 50.00,
+  "sell_price": 25.00
+},
+{
+  "id": "WEATHERED_COPPER_DOOR",
+  "buy_price": 900.00,
+  "sell_price": 850.00
+},
+{
+  "id": "WAXED_WEATHERED_COPPER_DOOR",
+  "buy_price": 950.00,
+  "sell_price": 900.00
+},
+{
+  "id": "WEATHERED_COPPER_TRAPDOOR",
+  "buy_price": 260.00,
+  "sell_price": 180.00
+},
+{
+  "id": "WAXED_WEATHERED_COPPER_TRAPDOOR",
+  "buy_price": 280.00,
+  "sell_price": 190.00
+},
+{
+  "id": "OXIDIZED_CHISELED_COPPER",
+  "buy_price": 55.00,
+  "sell_price": 25.00
+},
+{
+  "id": "WAXED_OXIDIZED_CHISELED_COPPER",
+  "buy_price": 60.00,
+  "sell_price": 30.00
+},
+{
+  "id": "OXIDIZED_COPPER_BULB",
+  "buy_price": 90.00,
+  "sell_price": 60.00
+},
+{
+  "id": "WAXED_OXIDIZED_COPPER_BULB",
+  "buy_price": 100.00,
+  "sell_price": 70.00
+},
+{
+  "id": "OXIDIZED_COPPER_GRATE",
+  "buy_price": 50.00,
+  "sell_price": 25.00
+},
+{
+  "id": "WAXED_OXIDIZED_COPPER_GRATE",
+  "buy_price": 50.00,
+  "sell_price": 30.00
+},
+{
+  "id": "OXIDIZED_COPPER_DOOR",
+  "buy_price": 950.00,
+  "sell_price": 900.00
+},
+{
+  "id": "WAXED_OXIDIZED_COPPER_DOOR",
+  "buy_price": 1000.00,
+  "sell_price": 950.00
+},
+{
+  "id": "OXIDIZED_COPPER_TRAPDOOR",
+  "buy_price": 280.00,
+  "sell_price": 190.00
+},
+{
+  "id": "WAXED_OXIDIZED_COPPER_TRAPDOOR",
+  "buy_price": 300.00,
+  "sell_price": 200.00
+}
+]

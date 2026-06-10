@@ -1,0 +1,82 @@
+[
+{
+  "id": "WHITE_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "BLACK_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "GRAY_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "LIGHT_GRAY_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "BROWN_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "BLUE_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "CYAN_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "CYAN_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "GREEN_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "LIME_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "PURPLE_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "MAGENTA_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "PINK_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "RED_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "ORANGE_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+},
+{
+  "id": "YELLOW_BANNER",
+  "buy_price": 150.00,
+  "sell_price": 75.00
+}
+]

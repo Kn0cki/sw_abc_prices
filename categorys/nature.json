@@ -1,0 +1,487 @@
+[
+{
+  "id": "DIRT_PATH",
+  "buy_price": 9.38,
+  "sell_price": 8.75
+},
+{
+  "id": "GRASS_BLOCK",
+  "buy_price": 6.25,
+  "sell_price": 5.63
+},
+{
+  "id": "DIRT",
+  "buy_price": 5.63,
+  "sell_price": 5.31
+},
+{
+  "id": "SUSPICIOUS_GRAVEL",
+  "buy_price": 350.00,
+  "sell_price": 100.00
+},
+{
+  "id": "SUSPICIOUS_SAND",
+  "buy_price": 350.00,
+  "sell_price": 100.00
+},
+{
+  "id": "GRAVEL",
+  "buy_price": 15.63,
+  "sell_price": 10.94
+},
+{
+  "id": "MYCELIUM",
+  "buy_price": 8.75,
+  "sell_price": 8.13
+},
+{
+  "id": "PODZOL",
+  "buy_price": 14.06,
+  "sell_price": 13.13
+},
+{
+  "id": "COARSE_DIRT",
+  "buy_price": 12.50,
+  "sell_price": 8.75
+},
+{
+  "id": "ROOTED_DIRT",
+  "buy_price": 46.88,
+  "sell_price": 46.25
+},
+{
+  "id": "BEE_NEST",
+  "buy_price": 3500.00,
+  "sell_price": 1500.00
+},
+{
+  "id": "BEEHIVE",
+  "buy_price": 300.00,
+  "sell_price": 200.00
+},
+{
+  "id": "HONEYCOMB_BLOCK",
+  "buy_price": 250.00,
+  "sell_price": 180.00
+},
+{
+  "id": "HONEYCOMB",
+  "buy_price": 60.00,
+  "sell_price": 30.00
+},
+{
+  "id": "HONEY_BOTTLE",
+  "buy_price": 175.00,
+  "sell_price": 25.00
+},
+{
+  "id": "SWEET_BERRIES",
+  "buy_price": 8.00,
+  "sell_price": 4.00
+},
+{
+  "id": "MOSS_CARPET",
+  "buy_price": 1.56,
+  "sell_price": 0.63
+},
+{
+  "id": "AZALEA",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "FLOWERING_AZALEA",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "HANGING_ROOTS",
+  "buy_price": 25.00,
+  "sell_price": 15.00
+},
+{
+  "id": "HONEY_BLOCK",
+  "buy_price": 500.00,
+  "sell_price": 275.00
+},
+{
+  "id": "SLIME_BLOCK",
+  "buy_price": 200.00,
+  "sell_price": 180.00
+},
+{
+  "id": "PEARLESCENT_FROGLIGHT",
+  "buy_price": 90.00,
+  "sell_price": 85.00
+},
+{
+  "id": "OCHRE_FROGLIGHT",
+  "buy_price": 100.00,
+  "sell_price": 75.00
+},
+{
+  "id": "VERDANT_FROGLIGHT",
+  "buy_price": 100.00,
+  "sell_price": 75.00
+},
+{
+  "id": "HAY_BLOCK",
+  "buy_price": 85.00,
+  "sell_price": 60.00
+},
+{
+  "id": "MANGROVE_ROOTS",
+  "buy_price": 15.00,
+  "sell_price": 5.00
+},
+{
+  "id": "MOSS_BLOCK",
+  "buy_price": 6.25,
+  "sell_price": 4.69
+},
+{
+  "id": "GLOW_LICHEN",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "VINE",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "SPORE_BLOSSOM",
+  "buy_price": 800.00,
+  "sell_price": 750.00
+},
+{
+  "id": "GLOW_BERRIES",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "POINTED_DRIPSTONE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "RED_MUSHROOM",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "BROWN_MUSHROOM",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+},
+{
+  "id": "MUSHROOM_STEM",
+  "buy_price": 70.00,
+  "sell_price": 45.00
+},
+{
+  "id": "RED_MUSHROOM_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "BROWN_MUSHROOM_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "PINK_PETALS",
+  "buy_price": 15.00,
+  "sell_price": 10.00
+},
+{
+  "id": "WILDFLOWERS",
+  "buy_price": 15.00,
+  "sell_price": 10.00
+},
+{
+  "id": "LEAF_LITTER",
+  "buy_price": 1.56,
+  "sell_price": 1.25
+},
+{
+  "id": "SHORT_GRASS",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "TALL_GRASS",
+  "buy_price": 150.00,
+  "sell_price": 140.00
+},
+{
+  "id": "SHORT_DRY_GRASS",
+  "buy_price": 45.00,
+  "sell_price": 42.00
+},
+{
+  "id": "TALL_DRY_GRASS",
+  "buy_price": 60.00,
+  "sell_price": 55.00
+},
+{
+  "id": "FERN",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "LARGE_FERN",
+  "buy_price": 120.00,
+  "sell_price": 110.00
+},
+{
+  "id": "DEAD_BUSH",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+},
+{
+  "id": "BUSH",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "FIREFLY_BUSH",
+  "buy_price": 50.00,
+  "sell_price": 40.00
+},
+{
+  "id": "BIG_DRIPLEAF",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "SMALL_DRIPLEAF",
+  "buy_price": 650.00,
+  "sell_price": 500.00
+},
+{
+  "id": "LILY_PAD",
+  "buy_price": 150.00,
+  "sell_price": 120.00
+},
+{
+  "id": "BAMBOO",
+  "buy_price": 2.00,
+  "sell_price": 1.25
+},
+{
+  "id": "CACTUS",
+  "buy_price": 5.00,
+  "sell_price": 4.00
+},
+{
+  "id": "CACTUS_FLOWER",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+},
+{
+  "id": "SNOW",
+  "buy_price": 5.00,
+  "sell_price": 4.69
+},
+{
+  "id": "SNOW_BLOCK",
+  "buy_price": 10.00,
+  "sell_price": 9.38
+},
+{
+  "id": "SNOWBALL",
+  "buy_price": 5.94,
+  "sell_price": 5.00
+},
+{
+  "id": "ICE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "PACKED_ICE",
+  "buy_price": 45.00,
+  "sell_price": 35.00
+},
+{
+  "id": "BLUE_ICE",
+  "buy_price": 85.00,
+  "sell_price": 45.00
+},
+{
+  "id": "BONE_BLOCK",
+  "buy_price": 60.00,
+  "sell_price": 50.00
+},
+{
+  "id": "BONE_MEAL",
+  "buy_price": 6.00,
+  "sell_price": 5.00
+},
+{
+  "id": "PUMPKIN",
+  "buy_price": 10.00,
+  "sell_price": 9.00
+},
+{
+  "id": "CARVED_PUMPKIN",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "JACK_O_LANTERN",
+  "buy_price": 25.00,
+  "sell_price": 24.00
+},
+{
+  "id": "MELON",
+  "buy_price": 15.00,
+  "sell_price": 7.00
+},
+{
+  "id": "BUDDING_AMETHYST",
+  "buy_price": 250.00,
+  "sell_price": 200.00
+},
+{
+  "id": "AMETHYST_BLOCK",
+  "buy_price": 5.47,
+  "sell_price": 4.69
+},
+{
+  "id": "AMETHYST_SHARD",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "SMALL_AMETHYST_BUD",
+  "buy_price": 35.00,
+  "sell_price": 20.00
+},
+{
+  "id": "MEDIUM_AMETHYST_BUD",
+  "buy_price": 45.00,
+  "sell_price": 25.00
+},
+{
+  "id": "LARGE_AMETHYST_BUD",
+  "buy_price": 50.00,
+  "sell_price": 30.00
+},
+{
+  "id": "AMETHYST_CLUSTER",
+  "buy_price": 120.00,
+  "sell_price": 30.00
+},
+{
+  "id": "PALE_MOSS_BLOCK",
+  "buy_price": 14.06,
+  "sell_price": 12.50
+},
+{
+  "id": "PALE_MOSS_CARPET",
+  "buy_price": 6.25,
+  "sell_price": 5.63
+},
+{
+  "id": "CLOSED_EYEBLOSSOM",
+  "buy_price": 50.00,
+  "sell_price": 25.00
+},
+{
+  "id": "OPEN_EYEBLOSSOM",
+  "buy_price": 50.00,
+  "sell_price": 25.00
+},
+{
+  "id": "PALE_HANGING_MOSS",
+  "buy_price": 7.81,
+  "sell_price": 7.50
+},
+{
+  "id": "SUGAR_CANE",
+  "buy_price": 1.88,
+  "sell_price": 1.56
+},
+{
+  "id": "SUNFLOWER",
+  "buy_price": 30.00,
+  "sell_price": 20.00
+},
+{
+  "id": "ROSE_BUSH",
+  "buy_price": 32.00,
+  "sell_price": 20.00
+},
+{
+  "id": "PEONY",
+  "buy_price": 35.00,
+  "sell_price": 20.00
+},
+{
+  "id": "LILAC",
+  "buy_price": 35.00,
+  "sell_price": 20.00
+},
+{
+  "id": "RED_TULIP",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "ORANGE_TULIP",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "PINK_TULIP",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "WHITE_TULIP",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "DANDELION",
+  "buy_price": 50.00,
+  "sell_price": 20.00
+},
+{
+  "id": "POPPY",
+  "buy_price": 50.00,
+  "sell_price": 20.00
+},
+{
+  "id": "ALLIUM",
+  "buy_price": 75.00,
+  "sell_price": 35.00
+},
+{
+  "id": "LILY_OF_THE_VALLEY",
+  "buy_price": 100.00,
+  "sell_price": 70.00
+},
+{
+  "id": "AZURE_BLUET",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "BLUE_ORCHID",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CORNFLOWER",
+  "buy_price": 50.00,
+  "sell_price": 20.00
+},
+{
+  "id": "OXEYE_DAISY",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+}
+]

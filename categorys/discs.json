@@ -1,0 +1,112 @@
+[
+{
+  "id": "DISC_FRAGMENT_5",
+  "buy_price": 1200.00,
+  "sell_price": 100.00
+},
+{
+  "id": "MUSIC_DISC_OTHERSIDE",
+  "buy_price": 15000.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "MUSIC_DISC_5",
+  "buy_price": 10000.00,
+  "sell_price": 3500.00
+},
+{
+  "id": "MUSIC_DISC_PIGSTEP",
+  "buy_price": 10000.00,
+  "sell_price": 3000.00
+},
+{
+  "id": "MUSIC_DISC_WARD",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_MALL",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_BLOCKS",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_FAR",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_CREATOR_MUSIC_BOX",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_PRECIPICE",
+  "buy_price": 7500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "MUSIC_DISC_LAVA_CHICKEN",
+  "buy_price": 250000.00,
+  "sell_price": 240000.00
+},
+{
+  "id": "MUSIC_DISC_STAL",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_13",
+  "buy_price": 3000.00,
+  "sell_price": 500.00
+},
+{
+  "id": "MUSIC_DISC_CAT",
+  "buy_price": 3000.00,
+  "sell_price": 500.00
+},
+{
+  "id": "MUSIC_DISC_WAIT",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_STRAD",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_CHIRP",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_MELLOHI",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_11",
+  "buy_price": 3500.00,
+  "sell_price": 1500.00
+},
+{
+  "id": "MUSIC_DISC_RELIC",
+  "buy_price": 12500.00,
+  "sell_price": 7500.00
+},
+{
+  "id": "MUSIC_DISC_CREATOR",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "MUSIC_DISC_TEARS",
+  "buy_price": 15000.00,
+  "sell_price": 10000.00
+}
+]

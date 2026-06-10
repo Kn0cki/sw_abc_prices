@@ -1,0 +1,167 @@
+[
+{
+  "id": "TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "WHITE_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "WHITE_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "BLACK_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "BLACK_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "GRAY_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "GRAY_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "LIGHT_GRAY_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "LIGHT_GRAY_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "BROWN_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "BROWN_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "BLUE_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "BLUE_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "CYAN_TERRACOTTA",
+  "buy_price": 21.88,
+  "sell_price": 18.75
+},
+{
+  "id": "CYAN_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "LIGHT_BLUE_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "LIGHT_BLUE_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "GREEN_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "GREEN_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "LIME_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "LIME_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "PURPLE_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "PURPLE_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "MAGENTA_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "MAGENTA_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "PINK_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "PINK_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "RED_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "RED_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "ORANGE_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "ORANGE_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+},
+{
+  "id": "YELLOW_TERRACOTTA",
+  "buy_price": 14.06,
+  "sell_price": 9.38
+},
+{
+  "id": "YELLOW_GLAZED_TERRACOTTA",
+  "buy_price": 18.75,
+  "sell_price": 17.50
+}
+]

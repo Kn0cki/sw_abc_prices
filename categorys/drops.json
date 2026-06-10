@@ -1,0 +1,172 @@
+[
+{
+  "id": "INK_SAC",
+  "buy_price": 60.00,
+  "sell_price": 49.00
+},
+{
+  "id": "ROTTEN_FLESH",
+  "buy_price": 2.19,
+  "sell_price": 2.03
+},
+{
+  "id": "LEATHER",
+  "buy_price": 15.00,
+  "sell_price": 12.00
+},
+{
+  "id": "GUNPOWDER",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "SPIDER_EYE",
+  "buy_price": 7.00,
+  "sell_price": 5.00
+},
+{
+  "id": "FERMENTED_SPIDER_EYE",
+  "buy_price": 150.00,
+  "sell_price": 140.00
+},
+{
+  "id": "BLAZE_ROD",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "BLAZE_POWDER",
+  "buy_price": 25.00,
+  "sell_price": 22.00
+},
+{
+  "id": "NETHER_WART",
+  "buy_price": 10.00,
+  "sell_price": 5.00
+},
+{
+  "id": "PHANTOM_MEMBRANE",
+  "buy_price": 30.00,
+  "sell_price": 0.00
+},
+{
+  "id": "STRING",
+  "buy_price": 25.00,
+  "sell_price": 24.00
+},
+{
+  "id": "COBWEB",
+  "buy_price": 180.00,
+  "sell_price": 170.00
+},
+{
+  "id": "TRIAL_KEY",
+  "buy_price": 3000.00,
+  "sell_price": 1500.00
+},
+{
+  "id": "BREEZE_ROD",
+  "buy_price": 50.00,
+  "sell_price": 30.00
+},
+{
+  "id": "ARMADILLO_SCUTE",
+  "buy_price": 10.00,
+  "sell_price": 9.00
+},
+{
+  "id": "HEAVY_CORE",
+  "buy_price": 250000.00,
+  "sell_price": 120000.00
+},
+{
+  "id": "RABBIT_HIDE",
+  "buy_price": 15.00,
+  "sell_price": 6.00
+},
+{
+  "id": "RABBIT_FOOT",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "SLIME_BALL",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "ENDER_PEARL",
+  "buy_price": 1.25,
+  "sell_price": 1.17
+},
+{
+  "id": "ENDER_EYE",
+  "buy_price": 48.00,
+  "sell_price": 35.00
+},
+{
+  "id": "FEATHER",
+  "buy_price": 15.00,
+  "sell_price": 13.00
+},
+{
+  "id": "BONE",
+  "buy_price": 20.00,
+  "sell_price": 18.00
+},
+{
+  "id": "GLISTERING_MELON_SLICE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "MAGMA_CREAM",
+  "buy_price": 20.00,
+  "sell_price": 19.00
+},
+{
+  "id": "GHAST_TEAR",
+  "buy_price": 75.00,
+  "sell_price": 30.00
+},
+{
+  "id": "GLOW_INK_SAC",
+  "buy_price": 80.00,
+  "sell_price": 75.00
+},
+{
+  "id": "OMINOUS_TRIAL_KEY",
+  "buy_price": 10000.00,
+  "sell_price": 7500.00
+},
+{
+  "id": "WIND_CHARGE",
+  "buy_price": 12.00,
+  "sell_price": 7.00
+},
+{
+  "id": "BUNDLE",
+  "buy_price": 150.00,
+  "sell_price": 140.00
+},
+{
+  "id": "CREEPER_HEAD",
+  "buy_price": 20000.00,
+  "sell_price": 15000.00
+},
+{
+  "id": "WITHER_SKELETON_SKULL",
+  "buy_price": 1000.00,
+  "sell_price": 500.00
+},
+{
+  "id": "SKELETON_SKULL",
+  "buy_price": 3000.00,
+  "sell_price": 1500.00
+},
+{
+  "id": "ZOMBIE_HEAD",
+  "buy_price": 17500.00,
+  "sell_price": 12500.00
+}
+]

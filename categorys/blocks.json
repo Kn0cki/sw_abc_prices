@@ -466,33 +466,33 @@
 },
 {
   "id": "RESIN_BLOCK",
-  "buy_price": 312.50,
-  "sell_price": 281.25
+  "buy_price": 225.00,
+  "sell_price": 203.13
 },
 {
   "id": "RESIN_BRICKS",
-  "buy_price": 390.63,
-  "sell_price": 343.75
+  "buy_price": 125.00,
+  "sell_price": 112.50
 },
 {
   "id": "RESIN_BRICK_STAIRS",
-  "buy_price": 390.63,
-  "sell_price": 343.75
+  "buy_price": 156.25,
+  "sell_price": 140.63
 },
 {
   "id": "RESIN_BRICK_SLAB",
-  "buy_price": 195.31,
-  "sell_price": 171.88
+  "buy_price": 62.50,
+  "sell_price": 56.25
 },
 {
   "id": "RESIN_BRICK_WALL",
-  "buy_price": 390.63,
-  "sell_price": 343.75
+  "buy_price": 156.25,
+  "sell_price": 140.63
 },
 {
   "id": "CHISELED_RESIN_BRICKS",
-  "buy_price": 390.63,
-  "sell_price": 343.75
+  "buy_price": 187.50,
+  "sell_price": 171.88
 },
 {
   "id": "CREAKING_HEART",
@@ -501,12 +501,12 @@
 },
 {
   "id": "RESIN_CLUMP",
-  "buy_price": 93.75,
-  "sell_price": 90.63
+  "buy_price": 25.00,
+  "sell_price": 18.75
 },
 {
   "id": "RESIN_BRICK",
-  "buy_price": 103.13,
-  "sell_price": 93.75
+  "buy_price": 31.25,
+  "sell_price": 25.00
 }
 ]

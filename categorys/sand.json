@@ -1,0 +1,112 @@
+[
+{
+  "id": "SAND",
+  "buy_price": 5.47,
+  "sell_price": 4.69
+},
+{
+  "id": "SANDSTONE",
+  "buy_price": 13.59,
+  "sell_price": 13.28
+},
+{
+  "id": "SANDSTONE_STAIRS",
+  "buy_price": 18.75,
+  "sell_price": 12.50
+},
+{
+  "id": "SANDSTONE_SLAB",
+  "buy_price": 18.75,
+  "sell_price": 12.50
+},
+{
+  "id": "SANDSTONE_WALL",
+  "buy_price": 18.75,
+  "sell_price": 12.50
+},
+{
+  "id": "SMOOTH_SANDSTONE",
+  "buy_price": 21.88,
+  "sell_price": 15.63
+},
+{
+  "id": "SMOOTH_SANDSTONE_STAIRS",
+  "buy_price": 25.00,
+  "sell_price": 18.75
+},
+{
+  "id": "SMOOTH_SANDSTONE_SLAB",
+  "buy_price": 25.00,
+  "sell_price": 15.63
+},
+{
+  "id": "CUT_SANDSTONE",
+  "buy_price": 15.63,
+  "sell_price": 13.75
+},
+{
+  "id": "CUT_SANDSTONE_SLAB",
+  "buy_price": 18.75,
+  "sell_price": 12.50
+},
+{
+  "id": "CHISELED_SANDSTONE",
+  "buy_price": 15.63,
+  "sell_price": 14.84
+},
+{
+  "id": "RED_SAND",
+  "buy_price": 4.69,
+  "sell_price": 3.91
+},
+{
+  "id": "RED_SANDSTONE",
+  "buy_price": 15.63,
+  "sell_price": 13.28
+},
+{
+  "id": "RED_SANDSTONE_STAIRS",
+  "buy_price": 25.00,
+  "sell_price": 15.63
+},
+{
+  "id": "RED_SANDSTONE_SLAB",
+  "buy_price": 21.88,
+  "sell_price": 15.63
+},
+{
+  "id": "RED_SANDSTONE_WALL",
+  "buy_price": 21.88,
+  "sell_price": 15.63
+},
+{
+  "id": "SMOOTH_RED_SANDSTONE",
+  "buy_price": 25.00,
+  "sell_price": 18.75
+},
+{
+  "id": "SMOOTH_RED_SANDSTONE_STAIRS",
+  "buy_price": 28.13,
+  "sell_price": 21.88
+},
+{
+  "id": "SMOOTH_RED_SANDSTONE_SLAB",
+  "buy_price": 28.13,
+  "sell_price": 18.75
+},
+{
+  "id": "CUT_RED_SANDSTONE",
+  "buy_price": 18.75,
+  "sell_price": 14.06
+},
+{
+  "id": "CUT_RED_SANDSTONE_SLAB",
+  "buy_price": 21.88,
+  "sell_price": 15.63
+},
+{
+  "id": "CHISELED_RED_SANDSTONE",
+  "buy_price": 18.75,
+  "sell_price": 14.06
+}
+]

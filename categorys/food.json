@@ -1,0 +1,232 @@
+[
+{
+  "id": "COOKED_SALMON",
+  "buy_price": 9.00,
+  "sell_price": 8.00
+},
+{
+  "id": "SALMON",
+  "buy_price": 6.00,
+  "sell_price": 5.00
+},
+{
+  "id": "COD",
+  "buy_price": 6.00,
+  "sell_price": 5.00
+},
+{
+  "id": "COOKED_COD",
+  "buy_price": 9.00,
+  "sell_price": 8.00
+},
+{
+  "id": "BLUE_EGG",
+  "buy_price": 100.00,
+  "sell_price": 25.00
+},
+{
+  "id": "BROWN_EGG",
+  "buy_price": 100.00,
+  "sell_price": 25.00
+},
+{
+  "id": "PUFFERFISH",
+  "buy_price": 65.00,
+  "sell_price": 35.00
+},
+{
+  "id": "APPLE",
+  "buy_price": 75.00,
+  "sell_price": 50.00
+},
+{
+  "id": "RABBIT",
+  "buy_price": 8.00,
+  "sell_price": 2.00
+},
+{
+  "id": "COOKED_RABBIT",
+  "buy_price": 9.00,
+  "sell_price": 3.00
+},
+{
+  "id": "CHICKEN",
+  "buy_price": 8.00,
+  "sell_price": 4.00
+},
+{
+  "id": "COOKED_CHICKEN",
+  "buy_price": 8.00,
+  "sell_price": 4.00
+},
+{
+  "id": "MUTTON",
+  "buy_price": 2.00,
+  "sell_price": 0.00
+},
+{
+  "id": "COOKED_MUTTON",
+  "buy_price": 2.00,
+  "sell_price": 0.00
+},
+{
+  "id": "PORKCHOP",
+  "buy_price": 5.00,
+  "sell_price": 4.00
+},
+{
+  "id": "BEEF",
+  "buy_price": 5.00,
+  "sell_price": 4.00
+},
+{
+  "id": "COCOA_BEANS",
+  "buy_price": 25.00,
+  "sell_price": 25.00
+},
+{
+  "id": "BAKED_POTATO",
+  "buy_price": 2.50,
+  "sell_price": 2.19
+},
+{
+  "id": "POTATO",
+  "buy_price": 1.00,
+  "sell_price": 0.94
+},
+{
+  "id": "POISONOUS_POTATO",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+},
+{
+  "id": "COOKED_PORKCHOP",
+  "buy_price": 8.00,
+  "sell_price": 6.00
+},
+{
+  "id": "COOKED_BEEF",
+  "buy_price": 8.00,
+  "sell_price": 6.00
+},
+{
+  "id": "MUSHROOM_STEW",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "BEETROOT_SOUP",
+  "buy_price": 35.00,
+  "sell_price": 8.00
+},
+{
+  "id": "RABBIT_STEW",
+  "buy_price": 45.00,
+  "sell_price": 40.00
+},
+{
+  "id": "CAKE",
+  "buy_price": 150.00,
+  "sell_price": 149.00
+},
+{
+  "id": "TROPICAL_FISH",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "COOKIE",
+  "buy_price": 5.00,
+  "sell_price": 4.38
+},
+{
+  "id": "BREAD",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "SUGAR",
+  "buy_price": 2.19,
+  "sell_price": 2.03
+},
+{
+  "id": "EGG",
+  "buy_price": 5.00,
+  "sell_price": 4.38
+},
+{
+  "id": "BEETROOT_SEEDS",
+  "buy_price": 8.00,
+  "sell_price": 6.00
+},
+{
+  "id": "BEETROOT",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "CARROT",
+  "buy_price": 2.81,
+  "sell_price": 2.50
+},
+{
+  "id": "WHEAT_SEEDS",
+  "buy_price": 5.00,
+  "sell_price": 4.00
+},
+{
+  "id": "WHEAT",
+  "buy_price": 12.19,
+  "sell_price": 8.88
+},
+{
+  "id": "PUMPKIN_SEEDS",
+  "buy_price": 5.00,
+  "sell_price": 4.00
+},
+{
+  "id": "PUMPKIN_PIE",
+  "buy_price": 15.00,
+  "sell_price": 13.00
+},
+{
+  "id": "MELON_SEEDS",
+  "buy_price": 5.00,
+  "sell_price": 4.00
+},
+{
+  "id": "MELON_SLICE",
+  "buy_price": 1.00,
+  "sell_price": 0.31
+},
+{
+  "id": "CHORUS_FRUIT",
+  "buy_price": 15.63,
+  "sell_price": 14.38
+},
+{
+  "id": "SWEET_BERRIES",
+  "buy_price": 1.00,
+  "sell_price": 0.94
+},
+{
+  "id": "GOLDEN_CARROT",
+  "buy_price": 55.00,
+  "sell_price": 45.00
+},
+{
+  "id": "GOLDEN_APPLE",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "ENCHANTED_GOLDEN_APPLE",
+  "buy_price": 4500.00,
+  "sell_price": 2000.00
+},
+{
+  "id": "GLOW_BERRIES",
+  "buy_price": 25.00,
+  "sell_price": 20.00
+}
+]

@@ -45,6 +45,11 @@
   "sell_price": 3.50
 },
 {
+  "id": "COPPER_NUGGET",
+  "buy_price": 0.61,
+  "sell_price": 0.39
+},
+{
   "id": "NETHERITE_INGOT",
   "buy_price": 10000.00,
   "sell_price": 7222.00

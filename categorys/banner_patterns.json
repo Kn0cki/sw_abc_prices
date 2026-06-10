@@ -1,0 +1,52 @@
+[
+{
+  "id": "FIELD_MASONED_BANNER_PATTERN",
+  "buy_price": 250.00,
+  "sell_price": 200.00
+},
+{
+  "id": "BORDURE_INDENTED_BANNER_PATTERN",
+  "buy_price": 750.00,
+  "sell_price": 700.00
+},
+{
+  "id": "GUSTER_BANNER_PATTERN",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "FLOW_BANNER_PATTERN",
+  "buy_price": 7500.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "GLOBE_BANNER_PATTERN",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "MOJANG_BANNER_PATTERN",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "SKULL_BANNER_PATTERN",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "CREEPER_BANNER_PATTERN",
+  "buy_price": 20000.00,
+  "sell_price": 5000.00
+},
+{
+  "id": "FLOWER_BANNER_PATTERN",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "PIGLIN_BANNER_PATTERN",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+}
+]

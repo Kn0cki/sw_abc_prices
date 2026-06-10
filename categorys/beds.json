@@ -1,0 +1,82 @@
+[
+{
+  "id": "WHITE_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "BLACK_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "GRAY_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "LIGHT_GRAY_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "BROWN_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "BLUE_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "CYAN_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "LIGHT_BLUE_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "GREEN_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "LIME_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "PURPLE_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "PURPLE_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "PINK_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "RED_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "ORANGE_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "YELLOW_BED",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+}
+]

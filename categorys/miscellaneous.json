@@ -1,0 +1,232 @@
+[
+{
+  "id": "TORCH",
+  "buy_price": 8.00,
+  "sell_price": 6.00
+},
+{
+  "id": "FISHING_ROD",
+  "buy_price": 135.00,
+  "sell_price": 130.00
+},
+{
+  "id": "CARROT_ON_A_STICK",
+  "buy_price": 150.00,
+  "sell_price": 130.00
+},
+{
+  "id": "WARPED_FUNGUS_ON_A_STICK",
+  "buy_price": 180.00,
+  "sell_price": 140.00
+},
+{
+  "id": "STICK",
+  "buy_price": 3.13,
+  "sell_price": 0.75
+},
+{
+  "id": "NAUTILUS_SHELL",
+  "buy_price": 1000.00,
+  "sell_price": 200.00
+},
+{
+  "id": "BOOK",
+  "buy_price": 50.00,
+  "sell_price": 30.00
+},
+{
+  "id": "MAP",
+  "buy_price": 250.00,
+  "sell_price": 225.00
+},
+{
+  "id": "SHEARS",
+  "buy_price": 110.00,
+  "sell_price": 80.00
+},
+{
+  "id": "COPPER_TORCH",
+  "buy_price": 8.00,
+  "sell_price": 7.00
+},
+{
+  "id": "BRICK",
+  "buy_price": 70.00,
+  "sell_price": 45.00
+},
+{
+  "id": "CLAY_BALL",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "NETHER_BRICK",
+  "buy_price": 15.00,
+  "sell_price": 8.00
+},
+{
+  "id": "PRISMARINE_SHARD",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "PRISMARINE_CRYSTALS",
+  "buy_price": 100.00,
+  "sell_price": 25.00
+},
+{
+  "id": "SPYGLASS",
+  "buy_price": 150.00,
+  "sell_price": 140.00
+},
+{
+  "id": "NAME_TAG",
+  "buy_price": 850.00,
+  "sell_price": 400.00
+},
+{
+  "id": "FLINT_AND_STEEL",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+},
+{
+  "id": "POWDER_SNOW_BUCKET",
+  "buy_price": 250.00,
+  "sell_price": 240.00
+},
+{
+  "id": "LAVA_BUCKET",
+  "buy_price": 260.00,
+  "sell_price": 250.00
+},
+{
+  "id": "MILK_BUCKET",
+  "buy_price": 280.00,
+  "sell_price": 270.00
+},
+{
+  "id": "WATER_BUCKET",
+  "buy_price": 240.00,
+  "sell_price": 230.00
+},
+{
+  "id": "BUCKET",
+  "buy_price": 150.00,
+  "sell_price": 135.00
+},
+{
+  "id": "POTION",
+  "buy_price": 15.00,
+  "sell_price": 10.00
+},
+{
+  "id": "BOWL",
+  "buy_price": 10.00,
+  "sell_price": 9.00
+},
+{
+  "id": "CLOCK",
+  "buy_price": 50.00,
+  "sell_price": 30.00
+},
+{
+  "id": "COMPASS",
+  "buy_price": 140.00,
+  "sell_price": 100.00
+},
+{
+  "id": "COPPER_HORSE_ARMOR",
+  "buy_price": 500.00,
+  "sell_price": 400.00
+},
+{
+  "id": "IRON_HORSE_ARMOR",
+  "buy_price": 800.00,
+  "sell_price": 750.00
+},
+{
+  "id": "GOLDEN_HORSE_ARMOR",
+  "buy_price": 900.00,
+  "sell_price": 850.00
+},
+{
+  "id": "DIAMOND_HORSE_ARMOR",
+  "buy_price": 1000.00,
+  "sell_price": 950.00
+},
+{
+  "id": "NETHERITE_HORSE_ARMOR",
+  "buy_price": 14900.00,
+  "sell_price": 8900.00
+},
+{
+  "id": "LEATHER_HORSE_ARMOR",
+  "buy_price": 120.00,
+  "sell_price": 100.00
+},
+{
+  "id": "SADDLE",
+  "buy_price": 125.00,
+  "sell_price": 50.00
+},
+{
+  "id": "PAPER",
+  "buy_price": 5.47,
+  "sell_price": 4.69
+},
+{
+  "id": "GLASS_BOTTLE",
+  "buy_price": 12.00,
+  "sell_price": 8.00
+},
+{
+  "id": "FLINT",
+  "buy_price": 15.00,
+  "sell_price": 14.00
+},
+{
+  "id": "FIRE_CHARGE",
+  "buy_price": 40.00,
+  "sell_price": 35.00
+},
+{
+  "id": "PAINTING",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "COPPER_NAUTILUS_ARMOR",
+  "buy_price": 500.00,
+  "sell_price": 450.00
+},
+{
+  "id": "IRON_NAUTILUS_ARMOR",
+  "buy_price": 750.00,
+  "sell_price": 700.00
+},
+{
+  "id": "GOLDEN_NAUTILUS_ARMOR",
+  "buy_price": 15000.00,
+  "sell_price": 10000.00
+},
+{
+  "id": "DIAMOND_NAUTILUS_ARMOR",
+  "buy_price": 25000.00,
+  "sell_price": 20000.00
+},
+{
+  "id": "NETHERITE_NAUTILUS_ARMOR",
+  "buy_price": 35000.00,
+  "sell_price": 30000.00
+},
+{
+  "id": "WOLF_ARMOR",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "LEAD",
+  "buy_price": 95.00,
+  "sell_price": 25.00
+}
+]

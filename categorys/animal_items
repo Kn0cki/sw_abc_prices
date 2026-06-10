@@ -1,0 +1,47 @@
+[
+{
+  "id": "5001",
+  "buy_price": 12500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "5002",
+  "buy_price": 12500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "5003",
+  "buy_price": 12500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "5004",
+  "buy_price": 20000.00,
+  "sell_price": 8000.00
+},
+{
+  "id": "5005",
+  "buy_price": 12500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "5006",
+  "buy_price": 15000.00,
+  "sell_price": 3000.00
+},
+{
+  "id": "5007",
+  "buy_price": 12500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "5008",
+  "buy_price": 12500.00,
+  "sell_price": 2500.00
+},
+{
+  "id": "5009",
+  "buy_price": 17500.00,
+  "sell_price": 5000.00
+}
+]

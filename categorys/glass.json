@@ -1,0 +1,177 @@
+[
+{
+  "id": "GLASS",
+  "buy_price": 10.94,
+  "sell_price": 10.63
+},
+{
+  "id": "GLASS_PANE",
+  "buy_price": 6.25,
+  "sell_price": 5.63
+},
+{
+  "id": "YELLOW_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "YELLOW_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "ORANGE_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "ORANGE_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "RED_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "RED_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "PINK_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "PINK_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "MAGENTA_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "MAGENTA_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "PURPLE_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "PURPLE_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "LIME_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "LIME_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "GREEN_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "GREEN_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "LIGHT_BLUE_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "LIGHT_BLUE_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "CYAN_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "CYAN_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "BLUE_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "BLUE_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "BROWN_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "BROWN_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "LIGHT_GRAY_STAINED_GLASS",
+  "buy_price": 18.75,
+  "sell_price": 17.19
+},
+{
+  "id": "LIGHT_GRAY_STAINED_GLASS_PANE",
+  "buy_price": 9.38,
+  "sell_price": 8.75
+},
+{
+  "id": "GRAY_STAINED_GLASS",
+  "buy_price": 20.31,
+  "sell_price": 18.75
+},
+{
+  "id": "GRAY_STAINED_GLASS_PANE",
+  "buy_price": 10.00,
+  "sell_price": 9.38
+},
+{
+  "id": "BLACK_STAINED_GLASS",
+  "buy_price": 21.88,
+  "sell_price": 20.31
+},
+{
+  "id": "BLACK_STAINED_GLASS_PANE",
+  "buy_price": 10.63,
+  "sell_price": 10.00
+},
+{
+  "id": "WHITE_STAINED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 15.63
+},
+{
+  "id": "WHITE_STAINED_GLASS_PANE",
+  "buy_price": 8.13,
+  "sell_price": 7.50
+},
+{
+  "id": "TINTED_GLASS",
+  "buy_price": 17.19,
+  "sell_price": 16.88
+}
+]

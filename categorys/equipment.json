@@ -1,0 +1,387 @@
+[
+{
+  "id": "LEATHER_HELMET",
+  "buy_price": 100.00,
+  "sell_price": 75.00
+},
+{
+  "id": "LEATHER_CHESTPLATE",
+  "buy_price": 150.00,
+  "sell_price": 100.00
+},
+{
+  "id": "LEATHER_LEGGINGS",
+  "buy_price": 150.00,
+  "sell_price": 100.00
+},
+{
+  "id": "LEATHER_BOOTS",
+  "buy_price": 75.00,
+  "sell_price": 65.00
+},
+{
+  "id": "WOODEN_SWORD",
+  "buy_price": 30.00,
+  "sell_price": 5.00
+},
+{
+  "id": "WOODEN_PICKAXE",
+  "buy_price": 30.00,
+  "sell_price": 5.00
+},
+{
+  "id": "WOODEN_SHOVEL",
+  "buy_price": 30.00,
+  "sell_price": 5.00
+},
+{
+  "id": "WOODEN_HOE",
+  "buy_price": 30.00,
+  "sell_price": 5.00
+},
+{
+  "id": "WOODEN_AXE",
+  "buy_price": 30.00,
+  "sell_price": 5.00
+},
+{
+  "id": "WOODEN_SPEAR",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "IRON_HELMET",
+  "buy_price": 80.00,
+  "sell_price": 55.00
+},
+{
+  "id": "IRON_CHESTPLATE",
+  "buy_price": 130.00,
+  "sell_price": 80.00
+},
+{
+  "id": "IRON_LEGGINGS",
+  "buy_price": 115.00,
+  "sell_price": 70.00
+},
+{
+  "id": "IRON_BOOTS",
+  "buy_price": 65.00,
+  "sell_price": 45.00
+},
+{
+  "id": "IRON_SWORD",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "IRON_PICKAXE",
+  "buy_price": 55.00,
+  "sell_price": 45.00
+},
+{
+  "id": "IRON_SHOVEL",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "IRON_HOE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "IRON_AXE",
+  "buy_price": 55.00,
+  "sell_price": 45.00
+},
+{
+  "id": "IRON_SPEAR",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+},
+{
+  "id": "GOLDEN_HELMET",
+  "buy_price": 170.00,
+  "sell_price": 160.00
+},
+{
+  "id": "GOLDEN_CHESTPLATE",
+  "buy_price": 270.00,
+  "sell_price": 250.00
+},
+{
+  "id": "GOLDEN_LEGGINGS",
+  "buy_price": 240.00,
+  "sell_price": 210.00
+},
+{
+  "id": "GOLDEN_BOOTS",
+  "buy_price": 140.00,
+  "sell_price": 120.00
+},
+{
+  "id": "GOLDEN_SWORD",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "GOLDEN_PICKAXE",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "GOLDEN_SHOVEL",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "GOLDEN_HOE",
+  "buy_price": 30.00,
+  "sell_price": 25.00
+},
+{
+  "id": "GOLDEN_AXE",
+  "buy_price": 60.00,
+  "sell_price": 45.00
+},
+{
+  "id": "GOLDEN_SPEAR",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+},
+{
+  "id": "DIAMOND_HELMET",
+  "buy_price": 500.00,
+  "sell_price": 400.00
+},
+{
+  "id": "DIAMOND_CHESTPLATE",
+  "buy_price": 800.00,
+  "sell_price": 700.00
+},
+{
+  "id": "DIAMOND_LEGGINGS",
+  "buy_price": 700.00,
+  "sell_price": 650.00
+},
+{
+  "id": "DIAMOND_BOOTS",
+  "buy_price": 600.00,
+  "sell_price": 550.00
+},
+{
+  "id": "DIAMOND_SWORD",
+  "buy_price": 550.00,
+  "sell_price": 220.00
+},
+{
+  "id": "DIAMOND_PICKAXE",
+  "buy_price": 800.00,
+  "sell_price": 350.00
+},
+{
+  "id": "DIAMOND_SHOVEL",
+  "buy_price": 250.00,
+  "sell_price": 110.00
+},
+{
+  "id": "DIAMOND_HOE",
+  "buy_price": 250.00,
+  "sell_price": 90.00
+},
+{
+  "id": "DIAMOND_AXE",
+  "buy_price": 550.00,
+  "sell_price": 300.00
+},
+{
+  "id": "DIAMOND_SPEAR",
+  "buy_price": 200.00,
+  "sell_price": 190.00
+},
+{
+  "id": "NETHERITE_HELMET",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_CHESTPLATE",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_LEGGINGS",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_BOOTS",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_SWORD",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_PICKAXE",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_SHOVEL",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_HOE",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_AXE",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "NETHERITE_SPEAR",
+  "buy_price": 14999.00,
+  "sell_price": 8999.00
+},
+{
+  "id": "CHAINMAIL_HELMET",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "CHAINMAIL_CHESTPLATE",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "CHAINMAIL_LEGGINGS",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "CHAINMAIL_BOOTS",
+  "buy_price": 5000.00,
+  "sell_price": 4000.00
+},
+{
+  "id": "STONE_SWORD",
+  "buy_price": 40.00,
+  "sell_price": 10.00
+},
+{
+  "id": "STONE_PICKAXE",
+  "buy_price": 40.00,
+  "sell_price": 10.00
+},
+{
+  "id": "STONE_SHOVEL",
+  "buy_price": 40.00,
+  "sell_price": 10.00
+},
+{
+  "id": "STONE_HOE",
+  "buy_price": 40.00,
+  "sell_price": 10.00
+},
+{
+  "id": "STONE_AXE",
+  "buy_price": 40.00,
+  "sell_price": 10.00
+},
+{
+  "id": "STONE_SPEAR",
+  "buy_price": 40.00,
+  "sell_price": 10.00
+},
+{
+  "id": "COPPER_HELMET",
+  "buy_price": 55.00,
+  "sell_price": 50.00
+},
+{
+  "id": "COPPER_CHESTPLATE",
+  "buy_price": 75.00,
+  "sell_price": 70.00
+},
+{
+  "id": "COPPER_LEGGINGS",
+  "buy_price": 65.00,
+  "sell_price": 60.00
+},
+{
+  "id": "COPPER_BOOTS",
+  "buy_price": 50.00,
+  "sell_price": 45.00
+},
+{
+  "id": "COPPER_SWORD",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "COPPER_PICKAXE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "COPPER_SHOVEL",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "COPPER_HOE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "COPPER_AXE",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "COPPER_SPEAR",
+  "buy_price": 35.00,
+  "sell_price": 30.00
+},
+{
+  "id": "EXPERIENCE_BOTTLE",
+  "buy_price": 300.00,
+  "sell_price": 280.00
+},
+{
+  "id": "SHIELD",
+  "buy_price": 350.00,
+  "sell_price": 200.00
+},
+{
+  "id": "BOW",
+  "buy_price": 190.00,
+  "sell_price": 150.00
+},
+{
+  "id": "CROSSBOW",
+  "buy_price": 250.00,
+  "sell_price": 150.00
+},
+{
+  "id": "FISHING_ROD",
+  "buy_price": 160.00,
+  "sell_price": 120.00
+},
+{
+  "id": "ARROW",
+  "buy_price": 1.00,
+  "sell_price": 0.78
+},
+{
+  "id": "SPECTRAL_ARROW",
+  "buy_price": 20.00,
+  "sell_price": 15.00
+}
+]

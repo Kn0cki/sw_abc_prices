@@ -228,5 +228,35 @@
   "id": "LEAD",
   "buy_price": 95.00,
   "sell_price": 25.00
+},
+{
+  "id": "TORCHFLOWER",
+  "buy_price": 120.00,
+  "sell_price": 80.00
+},
+{
+  "id": "PITCHER_PLANT",
+  "buy_price": 75.00,
+  "sell_price": 50.00
+},
+{
+  "id": "SNIFFER_EGG",
+  "buy_price": 750.00,
+  "sell_price": 250.00
+},
+{
+  "id": "BRUSH",
+  "buy_price": 150.00,
+  "sell_price": 120.00
+},
+{
+  "id": "TORCHFLOWER_SEEDS",
+  "buy_price": 100.00,
+  "sell_price": 70.00
+},
+{
+  "id": "PITCHER_POD",
+  "buy_price": 60.00,
+  "sell_price": 40.00
 }
 ]

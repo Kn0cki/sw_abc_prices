@@ -178,5 +178,50 @@
   "id": "NETHERITE_SCRAP",
   "buy_price": 3000.00,
   "sell_price": 2000.00
+},
+{
+  "id": "COAL_BLOCK",
+  "buy_price": 150.00,
+  "sell_price": 120.00
+},
+{
+  "id": "IRON_BLOCK",
+  "buy_price": 350.00,
+  "sell_price": 300.00
+},
+{
+  "id": "GOLD_BLOCK",
+  "buy_price": 300.00,
+  "sell_price": 250.00
+},
+{
+  "id": "REDSTONE_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 35.00
+},
+{
+  "id": "LAPIS_BLOCK",
+  "buy_price": 27.00,
+  "sell_price": 16.00
+},
+{
+  "id": "COPPER_BLOCK",
+  "buy_price": 50.00,
+  "sell_price": 30.00
+},
+{
+  "id": "NETHERITE_BLOCK",
+  "buy_price": 90000.00,
+  "sell_price": 65000.00
+},
+{
+  "id": "DIAMOND_BLOCK",
+  "buy_price": 1100.00,
+  "sell_price": 750.00
+},
+{
+  "id": "EMERALD_BLOCK",
+  "buy_price": 850.00,
+  "sell_price": 600.00
 }
 ]

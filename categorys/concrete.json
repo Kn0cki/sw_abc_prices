@@ -1,0 +1,162 @@
+[
+{
+  "id": "WHITE_CONCRETE",
+  "buy_price": 62.50,
+  "sell_price": 54.69
+},
+{
+  "id": "WHITE_CONCRETE_POWDER",
+  "buy_price": 39.06,
+  "sell_price": 31.25
+},
+{
+  "id": "BLACK_CONCRETE",
+  "buy_price": 62.50,
+  "sell_price": 54.69
+},
+{
+  "id": "BLACK_CONCRETE_POWDER",
+  "buy_price": 39.06,
+  "sell_price": 31.25
+},
+{
+  "id": "GRAY_CONCRETE",
+  "buy_price": 62.50,
+  "sell_price": 54.69
+},
+{
+  "id": "GRAY_CONCRETE_POWDER",
+  "buy_price": 39.06,
+  "sell_price": 31.25
+},
+{
+  "id": "LIGHT_GRAY_CONCRETE",
+  "buy_price": 62.50,
+  "sell_price": 54.69
+},
+{
+  "id": "LIGHT_GRAY_CONCRETE_POWDER",
+  "buy_price": 39.06,
+  "sell_price": 31.25
+},
+{
+  "id": "BROWN_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "BROWN_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "BLUE_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "BLUE_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "CYAN_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "CYAN_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "LIGHT_BLUE_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "LIGHT_BLUE_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "GREEN_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "GREEN_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "LIME_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "LIME_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "PURPLE_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "PURPLE_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "MAGENTA_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "MAGENTA_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "PINK_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "PINK_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "RED_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "RED_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "ORANGE_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "ORANGE_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+},
+{
+  "id": "YELLOW_CONCRETE",
+  "buy_price": 46.88,
+  "sell_price": 39.06
+},
+{
+  "id": "YELLOW_CONCRETE_POWDER",
+  "buy_price": 31.25,
+  "sell_price": 26.56
+}
+]

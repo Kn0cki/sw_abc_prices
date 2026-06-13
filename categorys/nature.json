@@ -177,17 +177,17 @@
 {
   "id": "MUSHROOM_STEM",
   "buy_price": 70.00,
-  "sell_price": 45.00
+  "sell_price": 65.00
 },
 {
   "id": "RED_MUSHROOM_BLOCK",
-  "buy_price": 50.00,
-  "sell_price": 45.00
+  "buy_price": 20.00,
+  "sell_price": 15.00
 },
 {
   "id": "BROWN_MUSHROOM_BLOCK",
-  "buy_price": 50.00,
-  "sell_price": 45.00
+  "buy_price": 15.00,
+  "sell_price": 10.00
 },
 {
   "id": "PINK_PETALS",
@@ -226,13 +226,13 @@
 },
 {
   "id": "FERN",
-  "buy_price": 50.00,
-  "sell_price": 45.00
+  "buy_price": 75.00,
+  "sell_price": 60.00
 },
 {
   "id": "LARGE_FERN",
-  "buy_price": 120.00,
-  "sell_price": 110.00
+  "buy_price": 200.00,
+  "sell_price": 175.00
 },
 {
   "id": "DEAD_BUSH",
@@ -256,8 +256,8 @@
 },
 {
   "id": "SMALL_DRIPLEAF",
-  "buy_price": 650.00,
-  "sell_price": 500.00
+  "buy_price": 950.00,
+  "sell_price": 700.00
 },
 {
   "id": "LILY_PAD",
@@ -326,13 +326,13 @@
 },
 {
   "id": "CARVED_PUMPKIN",
-  "buy_price": 15.00,
-  "sell_price": 14.00
+  "buy_price": 25.00,
+  "sell_price": 24.00
 },
 {
   "id": "JACK_O_LANTERN",
-  "buy_price": 25.00,
-  "sell_price": 24.00
+  "buy_price": 35.00,
+  "sell_price": 30.00
 },
 {
   "id": "MELON",
@@ -341,8 +341,8 @@
 },
 {
   "id": "BUDDING_AMETHYST",
-  "buy_price": 250.00,
-  "sell_price": 200.00
+  "buy_price": 200.00,
+  "sell_price": 100.00
 },
 {
   "id": "AMETHYST_BLOCK",

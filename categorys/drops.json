@@ -46,8 +46,8 @@
 },
 {
   "id": "PHANTOM_MEMBRANE",
-  "buy_price": 30.00,
-  "sell_price": 0.00
+  "buy_price": 15.00,
+  "sell_price": 10.00
 },
 {
   "id": "STRING",
@@ -126,8 +126,8 @@
 },
 {
   "id": "GHAST_TEAR",
-  "buy_price": 75.00,
-  "sell_price": 30.00
+  "buy_price": 150.00,
+  "sell_price": 120.00
 },
 {
   "id": "GLOW_INK_SAC",

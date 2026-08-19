@@ -31,8 +31,8 @@
 },
 {
   "id": "NETHER_GOLD_ORE",
-  "buy_price": 90.00,
-  "sell_price": 50.00
+  "buy_price": 50.00,
+  "sell_price": 45.00
 },
 {
   "id": "NETHER_WART_BLOCK",

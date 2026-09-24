@@ -51,13 +51,13 @@
 },
 {
   "id": "NETHERITE_INGOT",
-  "buy_price": 10000.00,
-  "sell_price": 7222.00
+  "buy_price": 12777.00,
+  "sell_price": 10000.00
 },
 {
   "id": "DIAMOND",
-  "buy_price": 122.00,
-  "sell_price": 83.00
+  "buy_price": 95.00,
+  "sell_price": 72.00
 },
 {
   "id": "EMERALD",
@@ -216,13 +216,13 @@
 },
 {
   "id": "NETHERITE_BLOCK",
-  "buy_price": 90000.00,
-  "sell_price": 65000.00
+  "buy_price": 115000.00,
+  "sell_price": 90000.00
 },
 {
   "id": "DIAMOND_BLOCK",
-  "buy_price": 1100.00,
-  "sell_price": 750.00
+  "buy_price": 850.00,
+  "sell_price": 650.00
 },
 {
   "id": "EMERALD_BLOCK",

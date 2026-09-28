@@ -1,162 +1,162 @@
 [
 {
   "id": "WHITE_CONCRETE",
-  "buy_price": 62.50,
-  "sell_price": 54.69
+  "buy_price": 30.47,
+  "sell_price": 23.44
 },
 {
   "id": "WHITE_CONCRETE_POWDER",
-  "buy_price": 39.06,
-  "sell_price": 31.25
+  "buy_price": 28.91,
+  "sell_price": 21.88
 },
 {
   "id": "BLACK_CONCRETE",
-  "buy_price": 62.50,
-  "sell_price": 54.69
+  "buy_price": 30.47,
+  "sell_price": 23.44
 },
 {
   "id": "BLACK_CONCRETE_POWDER",
-  "buy_price": 39.06,
-  "sell_price": 31.25
+  "buy_price": 28.91,
+  "sell_price": 21.88
 },
 {
   "id": "GRAY_CONCRETE",
-  "buy_price": 62.50,
-  "sell_price": 54.69
+  "buy_price": 30.47,
+  "sell_price": 23.44
 },
 {
   "id": "GRAY_CONCRETE_POWDER",
-  "buy_price": 39.06,
-  "sell_price": 31.25
+  "buy_price": 28.91,
+  "sell_price": 21.88
 },
 {
   "id": "LIGHT_GRAY_CONCRETE",
-  "buy_price": 62.50,
-  "sell_price": 54.69
+  "buy_price": 30.47,
+  "sell_price": 23.44
 },
 {
   "id": "LIGHT_GRAY_CONCRETE_POWDER",
-  "buy_price": 39.06,
-  "sell_price": 31.25
+  "buy_price": 28.91,
+  "sell_price": 21.88
 },
 {
   "id": "BROWN_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "BROWN_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "BLUE_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "BLUE_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "CYAN_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "CYAN_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "LIGHT_BLUE_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "LIGHT_BLUE_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "GREEN_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "GREEN_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "LIME_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "LIME_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "PURPLE_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "PURPLE_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "MAGENTA_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "MAGENTA_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "PINK_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "PINK_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "RED_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "RED_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "ORANGE_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "ORANGE_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 },
 {
   "id": "YELLOW_CONCRETE",
-  "buy_price": 46.88,
-  "sell_price": 39.06
+  "buy_price": 23.44,
+  "sell_price": 18.75
 },
 {
   "id": "YELLOW_CONCRETE_POWDER",
-  "buy_price": 31.25,
-  "sell_price": 26.56
+  "buy_price": 21.88,
+  "sell_price": 17.19
 }
 ]

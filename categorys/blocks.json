@@ -270,6 +270,16 @@
   "sell_price": 7.81
 },
 {
+  "id": "cracked_deepslate_bricks",
+  "buy_price": 15.63,
+  "sell_price": 14.06
+},
+{
+  "id": "cracked_deepslate_tiles",
+  "buy_price": 18.75,
+  "sell_price": 17.19
+},
+{
   "id": "TUFF_BRICKS",
   "buy_price": 9.38,
   "sell_price": 7.81

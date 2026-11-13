@@ -52,7 +52,7 @@
 {
   "id": "NETHERITE_INGOT",
   "buy_price": 12777.00,
-  "sell_price": 10000.00
+  "sell_price": 7222.00
 },
 {
   "id": "DIAMOND",
@@ -217,7 +217,7 @@
 {
   "id": "NETHERITE_BLOCK",
   "buy_price": 115000.00,
-  "sell_price": 90000.00
+  "sell_price": 65000.00
 },
 {
   "id": "DIAMOND_BLOCK",
